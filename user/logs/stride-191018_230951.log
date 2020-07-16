@@ -1,0 +1,107 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x213ACB70>}
+__handleAvatarChooserDone: 100000016, 'Flippy', ('dss', 'ms', 'm', 'm', (0.34, 0.82, 0.95, 1.0), (1.0, 1.0, 1.0, 1.0), (0.34, 0.82, 0.95, 1.0), (0.34, 0.82, 0.95, 1.0), 3, 3, 3, 3, 7, 2), 0
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+chooseFireOpenShot <function allGroupLowShot at 0x1C057EB0>
+chooseFireOpenShot <function avatarCloseUpThreeQuarterLeftFireShot at 0x1C05C730>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function allGroupLowShot at 0x1C057EB0>
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x1C05C070>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+### newVec3 =  LVector3f(-1.99998, 6.3, 1.5)
+### newVec3 =  LVector3f(-1.99998, 6.3, 0)
+### newVec3 =  LVector3f(-1.99998, 6.3, 0.375)
+### newVec3 =  LVector3f(-1.99998, 6.3, 0)
+chooseFireOpenShot <function allGroupLowShot at 0x1C057EB0>
+chooseFireOpenShot <function avatarCloseUpFireShot at 0x1C05C6F0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+### newVec3 =  LVector3f(-1.99998, 6.3, 1.5)
+### newVec3 =  LVector3f(-1.99998, 6.3, 0)
+### newVec3 =  LVector3f(-1.99998, 6.3, 0.375)
+### newVec3 =  LVector3f(-1.99998, 6.3, 0)
+### newVec3 =  LVector3f(-1.99998, 6.3, 1.5)
+### newVec3 =  LVector3f(-1.99998, 6.3, 0)
+### newVec3 =  LVector3f(-1.99998, 6.3, 0.375)
+### newVec3 =  LVector3f(-1.99998, 6.3, 0)
+chooseFireOpenShot <function avatarCloseUpThrowShot at 0x1C05C170>
+chooseFireOpenShot <function avatarCloseUpFireShot at 0x1C05C6F0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+hit! 0.462585002184
+--not hard enough: -0.12400817126
+hit! 0.141433313489
+hit! 0.768073737621
+hit! 0.132775068283
+hit! 0.241078063846
+hit! 0.608034849167
+hit! 0.990564882755
+--not hard enough: 0.452428638935
+hit! 0.647455990314
+hit! 0.894829809666
+hit! 0.690821111202
+hit! 0.967156887054
+--not hard enough: 0.0182648077607
+hit! 0.992490053177
+hit! 0.966109752655
+hit! 0.735397398472
+--not hard enough: 0.247761666775
+hit! 0.62062972784
+hit! 0.945386826992
+hit! 0.934299826622
+hit! 0.548492074013
+hit! 0.998166918755
+hit! 0.640175759792
+hit! 0.910889744759
+hit! 0.0528386980295
+hit! 0.93289065361
+hit! 0.858594596386
+hit! 0.959574818611
+hit! 0.712620139122
+hit! 0.77253818512
+hit! 0.943637490273
+hit! 0.950491964817
+hit! 0.839639127254
+hit! 0.7074406147
+--not hard enough: -0.46794718504
+hit! 0.565642178059
+--not hard enough: -0.214235857129
+hit! 0.686296105385
+--not hard enough: 0.016597988084
+hit! 0.955034017563
+hit! 0.850767314434
+hit! 0.992226839066
+hit! 0.56299495697
+hit! 0.894693017006
+--not hard enough: -0.582619428635
+hit! 0.547652602196
+hit! 0.720224678516
+hit! 0.174380615354
+--not hard enough: 0.395624548197
+hit! 0.506620705128
+hit! 0.495321154594

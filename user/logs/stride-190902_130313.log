@@ -1,0 +1,84 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x232F6B20>}
+__handleAvatarChooserDone: 100000016, 'Flippy', ('dss', 'ms', 'm', 'm', (0.34, 0.82, 0.95, 1.0), (1.0, 1.0, 1.0, 1.0), (0.34, 0.82, 0.95, 1.0), (0.34, 0.82, 0.95, 1.0), 3, 3, 0, 3, 7, 2), 0
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+hit! 0.775731980801
+hit! 0.865668594837
+hit! 0.752237856388
+hit! 0.730118572712
+hit! 0.985256016254
+hit! 0.821366548538
+hit! 0.905277252197
+hit! 0.113315947354
+hit! 0.994927763939
+hit! 0.750543415546
+hit! 0.858971774578
+--not hard enough: -0.369560331106
+hit! 0.356193751097
+hit! 0.689229547977
+hit! 0.923420011997
+--not hard enough: -0.550771772861
+hit! 0.700783133507
+hit! 0.793158710003
+hit! 0.659256219864
+hit! 0.756083250046
+hit! 0.650158405304
+hit! 0.948140740395
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DL.pdna
+Reading DNA file... phase_8/dna/storage_DL_sz.pdna
+Reading DNA file... phase_8/dna/donalds_dreamland_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+chooseFireOpenShot <function avatarBehindShot at 0x1ED7E370>
+chooseFireOpenShot <function avatarCloseUpFireShot at 0x1ED7E770>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+### newVec3 =  LVector3f(0, 5, 1.5)
+### newVec3 =  LVector3f(0, 5, 0)
+### newVec3 =  LVector3f(0, 5, 0.375)
+### newVec3 =  LVector3f(0, 5, 0)
+chooseFireOpenShot <function avatarBehindShot at 0x1ED7E370>
+chooseFireOpenShot <function avatarCloseUpFireShot at 0x1ED7E770>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DG.pdna
+Reading DNA file... phase_8/dna/storage_DG_sz.pdna
+Reading DNA file... phase_8/dna/daisys_garden_sz.pdna

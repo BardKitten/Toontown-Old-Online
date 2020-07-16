@@ -1,0 +1,295 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x2039DB70>}
+__handleAvatarChooserDone: 100000015, 'Plankton', ('fll', 'ms', 's', 'm', (0.0, 0.63, 0.25, 1.0), (1.0, 1.0, 1.0, 1.0), (0.0, 0.63, 0.25, 1.0), (0.0, 0.63, 0.25, 1.0), 19, 6, 13, 6, 0, 6), 1
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DG.pdna
+Reading DNA file... phase_8/dna/storage_DG_sz.pdna
+Reading DNA file... phase_8/dna/daisys_garden_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Exception occurred while processing Func-setChatAbsolute-304 of IntroductionMovie:
+IntroductionMovie:
+  0.000 IntroductionMovie {
+  0.000   Sequence-237 {
+  0.000     Wait dur 5
+  5.000     LerpColorScaleInterval-307: color_scale to 1 1 1 0 dur 0.5
+  5.500     *Func-removeNode-141
+  5.500   }
+  0.000   Sequence-347 {
+  0.000     Introduction-401004110 {
+  0.000       *Func-stickToonsToFloor-340
+  0.000       Parallel-238 {
+  0.000         Sequence-324 {
+  0.000           *Actor-Ff_speech-54 dur 10
+ 10.000           *Actor-ltTurn2Wave-55 dur 2
+ 12.000           *Actor-wave-56 dur 4
+ 16.000           *Actor-ltTurn2Wave-57 dur 2.04167
+ 18.042           *Actor-Ff_speech-58 dur 7
+ 25.042         }
+  0.000         Track-346 {
+  0.000           Parallel-325 {
+  0.000             LerpPosHprInterval-358: pos from -0.0799672 116 26.0093 to -22 -100 35 hpr from -180 0 0 to -10 -13 0 dur 8
+  0.000             *IndirectInterval-1 dur 18
+ 18.000           }
+  5.600           *Func-setChatAbsolute-297
+  9.000           *IndirectInterval-2 dur 9
+ 10.000           Sequence-326 {
+ 10.000             *Func-clearChat-298
+ 10.000             LerpPosHprInterval-359: pos from -22 -100 35 to -0.3 -105.1 5.4 hpr from -10 -13 0 to 0 0 0 dur 5
+ 15.000           }
+ 12.000           *Func-setChatAbsolute-299
+ 16.000           Parallel-327 {
+ 16.000             *Func-clearChat-300
+ 16.000             LerpPosHprInterval-360: pos from -0.299999 -105.1 5.4 to -25 -99 10 hpr from 0 0 0 to -14 10 0 dur 4
+ 16.000             *IndirectInterval-3 dur 21.076
+ 16.000             *IndirectInterval-4 dur 6
+ 37.076           }
+ 18.000           *Func-setChatAbsolute-301
+ 22.000           *Func-setChatAbsolute-302
+ 22.200           Sequence-328 {
+ 22.200             *Func-setScale-303
+ 22.200             *Func-setChatAbsolute-304
+ 22.200             *Actor-wave-59 dur 3.25
+ 25.450             *Func-loop-305
+ 25.450           }
+ 25.000           Sequence-329 {
+ 25.000             *Func-clearChat-306
+ 25.000             *Func-clearChat-307
+ 25.000             *Func-setPosHpr-308
+ 25.000             *Actor-Ff_lookRt-60 dur 3
+ 28.000           }
+ 27.000           Sequence-330 {
+ 27.000             *Func-setChatAbsolute-309
+ 27.000             *Func-setPosHpr-310
+ 27.000             *Actor-wave-61 dur 3.25
+ 30.250             *Func-loop-311
+ 30.250           }
+ 31.000           Sequence-331 {
+ 31.000             LerpPosHprInterval-361: pos to -20 -35 10 hpr to -88 25 0 dur 1
+ 32.000             *Func-setChatAbsolute-312
+ 32.000             *Func-setScale-313
+ 32.000             *Func-clearChat-314
+ 32.000             *Actor-turn2Fb-62 dur 3
+ 35.000           }
+ 35.000           Sequence-338 {
+ 35.000             *Func-clearChat-315
+ 35.000             Sequence-332 {
+ 35.000               *Func-setPosHpr-316
+ 35.000               Parallel-333 {
+ 35.000                 Sequence-336 {
+ 35.000                   *Func-reparentTo-323
+ 35.000                   Parallel-335 {
+ 35.000                     dustCloud-track-0 {
+ 35.000                       *Func-show-317
+ 35.000                       *Func-messaging-318
+ 35.000                       *Func-play-319
+ 35.000                       *Func-setFrameRate-320
+ 35.000                       *Func-dummy-321
+ 35.000                       Wait dur 0.791667
+ 35.792                       *Func-_resetTrack-322
+ 35.792                     }
+ 35.000                     Sequence-334 {
+ 35.000                       Wait dur 0.3
+ 35.300                       *Func-takeOffSuit-324
+ 35.300                       *Func-sadEyes-325
+ 35.300                       *Func-blinkEyes-326
+ 35.300                       *Func-play-327
+ 35.300                       Wait dur 0.7
+ 36.000                     }
+ 36.000                   }
+ 36.000                   *Func-detachNode-328
+ 36.000                   *Func-destroy-329
+ 36.000                 }
+ 36.000               }
+ 36.000             }
+ 36.000             Sequence-337 {
+ 36.000             }
+ 36.000           }
+ 38.000           Sequence-345 {
+ 38.000             Sequence-339 {
+ 38.000               *Func-normalEyes-330
+ 38.000               *Func-blinkEyes-331
+ 38.000             }
+ 38.000             LerpPosHprInterval-362: pos to -23.4 -145.6 44 hpr to -10 -12.5 0 dur 1
+ 39.000             *Func-loop-332
+ 39.000             *Func-request-333
+ 39.000             *Func-request-334
+ 39.000             Parallel-344 {
+ 39.000               Parallel-340 {
+ 39.000                 Sequence-341 {
+ 39.000                   *Func-setPlayRate-335
+ 39.000                   *Func-loop-336
+ 39.000                   LerpPosInterval-363: pos to -31 -35 0 dur 3
+ 42.000                   *Func-setPlayRate-337
+ 42.000                   *Func-loop-338
+ 42.000                 }
+ 42.000               }
+ 39.000               Parallel-342 {
+ 39.000               }
+ 39.000               Sequence-343 {
+ 39.000                 Wait dur 3
+ 42.000                 LerpPosHprInterval-364: pos to -25 -35 20.5 hpr to -90 0 0 dur 1
+ 43.000                 *Func-setChatAbsolute-339
+ 43.000                 Wait dur 3
+ 46.000               }
+ 46.000             }
+ 46.000           }
+ 46.000         }
+ 46.000       }
+ 46.000       *Func-unstickToons-341
+ 46.000     }
+ 46.000     *Func-__beginBattleOne-342
+ 46.000   }
+ 46.000 }
+
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 353, in __taskChainDispatch
+    self.__dispatch(*eventTuple)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "otp\distributed\OTPClientRepository.py", line 1103, in lostConnection
+    self.loginFSM.request('noConnection')
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 284, in request
+    exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 230, in __transition
+    self.__exitCurrent(exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 188, in __exitCurrent
+    self.__currentState.exit(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 209, in exit
+    self.__exitChildren(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 188, in __exitChildren
+    fsm.request((fsm.getFinalState()).getName())
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 284, in request
+    exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 231, in __transition
+    self.__enter(aState, enterArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 217, in __enter
+    aState.enter(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 202, in enter
+    apply(self.__enterFunc, argList)
+  File "toontown\distributed\ToontownClientRepository.py", line 437, in enterGameOff
+    OTPClientRepository.OTPClientRepository.enterGameOff(self)
+  File "otp\distributed\OTPClientRepository.py", line 804, in enterGameOff
+    self._abandonShard()
+  File "toontown\distributed\ToontownClientRepository.py", line 918, in _abandonShard
+    self.deleteObject(doId)
+  File "toontown\distributed\ToontownClientRepository.py", line 906, in deleteObject
+    obj.deleteOrDelay()
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 199, in deleteOrDelay
+    self.disableAnnounceAndDelete()
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 202, in disableAnnounceAndDelete
+    self.disableAndAnnounce()
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 228, in disableAndAnnounce
+    self.disable()
+  File "toontown\suit\DistributedSellbotBoss.py", line 128, in disable
+    DistributedBossCog.DistributedBossCog.disable(self)
+  File "toontown\suit\DistributedBossCog.py", line 136, in disable
+    self.cleanupIntervals()
+  File "toontown\suit\DistributedBossCog.py", line 180, in cleanupIntervals
+    interval.finish()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 391, in finish
+    self.privPostEvent()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 519, in privPostEvent
+    self.__doPythonCallbacks()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 495, in __doPythonCallbacks
+    ival.privDoEvent(t, eventType)
+  File "C:\Panda3D-1.10.0\direct\interval\Interval.py", line 206, in privDoEvent
+    self.privInstant()
+  File "C:\Panda3D-1.10.0\direct\interval\FunctionInterval.py", line 88, in privInstant
+    self.function(*self.extraArgs, **self.kw)
+  File "otp\avatar\Avatar.py", line 314, in setChatAbsolute
+    self.playCurrentDialogue(dialogue, chatFlags, interrupt)
+  File "otp\avatar\Avatar.py", line 235, in playCurrentDialogue
+    self.playDialogueForString(self.nametag.getChat())
+  File "otp\avatar\Avatar.py", line 260, in playDialogueForString
+    self.playDialogue(type, length)
+  File "otp\avatar\Avatar.py", line 263, in playDialogue
+    dialogueArray = self.getDialogueArray()
+  File "toontown\toon\Toon.py", line 1176, in getDialogueArray
+    if base.cr.newsManager.isHolidayRunning(ToontownGlobals.APRIL_TOONS_WEEK):
+AttributeError: 'NoneType' object has no attribute 'isHolidayRunning'
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 34, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 508, in run
+    self.step()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 465, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 353, in __taskChainDispatch
+    self.__dispatch(*eventTuple)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "otp\distributed\OTPClientRepository.py", line 1103, in lostConnection
+    self.loginFSM.request('noConnection')
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 284, in request
+    exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 230, in __transition
+    self.__exitCurrent(exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 188, in __exitCurrent
+    self.__currentState.exit(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 209, in exit
+    self.__exitChildren(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 188, in __exitChildren
+    fsm.request((fsm.getFinalState()).getName())
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 284, in request
+    exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 231, in __transition
+    self.__enter(aState, enterArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 217, in __enter
+    aState.enter(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 202, in enter
+    apply(self.__enterFunc, argList)
+  File "toontown\distributed\ToontownClientRepository.py", line 437, in enterGameOff
+    OTPClientRepository.OTPClientRepository.enterGameOff(self)
+  File "otp\distributed\OTPClientRepository.py", line 804, in enterGameOff
+    self._abandonShard()
+  File "toontown\distributed\ToontownClientRepository.py", line 918, in _abandonShard
+    self.deleteObject(doId)
+  File "toontown\distributed\ToontownClientRepository.py", line 906, in deleteObject
+    obj.deleteOrDelay()
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 199, in deleteOrDelay
+    self.disableAnnounceAndDelete()
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 202, in disableAnnounceAndDelete
+    self.disableAndAnnounce()
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 228, in disableAndAnnounce
+    self.disable()
+  File "toontown\suit\DistributedSellbotBoss.py", line 128, in disable
+    DistributedBossCog.DistributedBossCog.disable(self)
+  File "toontown\suit\DistributedBossCog.py", line 136, in disable
+    self.cleanupIntervals()
+  File "toontown\suit\DistributedBossCog.py", line 180, in cleanupIntervals
+    interval.finish()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 391, in finish
+    self.privPostEvent()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 519, in privPostEvent
+    self.__doPythonCallbacks()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 495, in __doPythonCallbacks
+    ival.privDoEvent(t, eventType)
+  File "C:\Panda3D-1.10.0\direct\interval\Interval.py", line 206, in privDoEvent
+    self.privInstant()
+  File "C:\Panda3D-1.10.0\direct\interval\FunctionInterval.py", line 88, in privInstant
+    self.function(*self.extraArgs, **self.kw)
+  File "otp\avatar\Avatar.py", line 314, in setChatAbsolute
+    self.playCurrentDialogue(dialogue, chatFlags, interrupt)
+  File "otp\avatar\Avatar.py", line 235, in playCurrentDialogue
+    self.playDialogueForString(self.nametag.getChat())
+  File "otp\avatar\Avatar.py", line 260, in playDialogueForString
+    self.playDialogue(type, length)
+  File "otp\avatar\Avatar.py", line 263, in playDialogue
+    dialogueArray = self.getDialogueArray()
+  File "toontown\toon\Toon.py", line 1176, in getDialogueArray
+    if base.cr.newsManager.isHolidayRunning(ToontownGlobals.APRIL_TOONS_WEEK):
+AttributeError: 'NoneType' object has no attribute 'isHolidayRunning'
