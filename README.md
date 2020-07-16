@@ -1,2 +1,2 @@
 # Toontown Old Online
- This is a game that was meant to be for old purposes. So please enjoy some changes.
+ Some new/old game I made up. So enjoy guys!
