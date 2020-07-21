@@ -1,0 +1,65 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x212717B0>}
+__handleAvatarChooserDone: 100000029, 'Master Cool Cat', ('css', 'ms', 's', 'm', (0.3, 0.3, 0.35, 1.0), (1.0, 1.0, 1.0, 1.0), (0.3, 0.3, 0.35, 1.0), (0.3, 0.3, 0.35, 1.0), 99, 27, 0, 27, 4, 28), 0
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+__handleAvatarChooserDone: 100000029, 'Master Cool Cat', ('css', 'ms', 's', 'm', (0.3, 0.3, 0.35, 1.0), (1.0, 1.0, 1.0, 1.0), (0.3, 0.3, 0.35, 1.0), (0.3, 0.3, 0.35, 1.0), 99, 27, 0, 27, 4, 28), 0
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x1C7DFAB0>
+chooseFireOpenShot <function avatarCloseUpThreeQuarterLeftFireShot at 0x1C7E11B0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x1C7DFAB0>
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x1C7DFAB0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function avatarCloseUpThrowShot at 0x1C7DFBB0>
+chooseFireOpenShot <function avatarCloseUpFireShot at 0x1C7E1170>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function allGroupLowShot at 0x1C7DF930>
+chooseFireOpenShot <function avatarCloseUpFireShot at 0x1C7E1170>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function avatarCloseUpThrowShot at 0x1C7DFBB0>
+chooseFireOpenShot <function avatarCloseUpThreeQuarterLeftFireShot at 0x1C7E11B0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+### newVec3 =  LVector3f(-2, 6.3, 1.5)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+### newVec3 =  LVector3f(-2, 6.3, 0.375)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+chooseFireOpenShot <function allGroupLowShot at 0x1C7DF930>
+chooseFireOpenShot <function avatarCloseUpThreeQuarterLeftFireShot at 0x1C7E11B0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function allGroupLowShot at 0x1C7DF930>
+chooseFireOpenShot <function avatarCloseUpThreeQuarterLeftFireShot at 0x1C7E11B0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function avatarBehindShot at 0x1C7DFD30>
+chooseFireOpenShot <function avatarCloseUpThreeQuarterLeftFireShot at 0x1C7E11B0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x1C7DFAB0>
+chooseFireOpenShot <function allGroupLowShot at 0x1C7DF930>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.

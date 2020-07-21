@@ -1,0 +1,12 @@
+id: 100000025
+class: Account
+fields:
+  ACCOUNT_AV_SET: "[0, 100000026, 0, 0, 0, 0]"
+  ESTATE_ID: 0
+  ACCOUNT_AV_SET_DEL: "[]"
+  CREATED: "\"Thu Jul 16 22:29:50 2020\""
+  LAST_LOGIN: "\"Mon Jul 20 14:28:32 2020\""
+  ACCOUNT_ID: "\"toontown\""
+  ACCESS_LEVEL: 700
+  LAST_LOGIN_TS: 1595269713
+  CHAT_SETTINGS: "[1, 1]"

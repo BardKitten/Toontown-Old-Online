@@ -20,7 +20,7 @@ class DistributedStageAI(DistributedObjectAI.DistributedObjectAI):
         self.elevatorList = []
         self.setLayoutIndex(layoutIndex)
         self.battleExpAggreg = battleExpAggreg
-        self.puzzelReward = 5
+        self.puzzelReward = 15
 
     def generate(self):
         DistributedObjectAI.DistributedObjectAI.generate(self)
@@ -110,12 +110,12 @@ class DistributedStageAI(DistributedObjectAI.DistributedObjectAI):
         self.sendUpdate('elevatorAlert', [avId])
 
     def increasePuzzelReward(self):
-        self.puzzelReward += 5
-        if self.puzzelReward > 10:
-            self.puzzelReward = 10
+        self.puzzelReward += 15
+        if self.puzzelReward > 30:
+            self.puzzelReward = 30
 
     def resetPuzzelReward(self):
-        self.puzzelReward = 5
+        self.puzzelReward = 15
 
     def getPuzzelReward(self):
         return self.puzzelReward
