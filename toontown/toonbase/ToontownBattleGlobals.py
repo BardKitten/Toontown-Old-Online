@@ -50,7 +50,7 @@ Levels = [
  [0, 20, 150, 1000, 3000, 7000, 15000],
  [0, 20, 150, 1000, 3000, 7000, 15000],
  [0, 20, 150, 1000, 3000, 7000, 15000],
- [0, 20, 150, 1000, 300, 7000, 15000]
+ [0, 20, 150, 1000, 3000, 7000, 15000]
 ]
 regMaxSkill = 15000
 UberSkill = 500
@@ -226,7 +226,7 @@ def getCreditMultiplier(floorIndex):
 def getFactoryCreditMultiplier(factoryId):
     if factoryId == SellbotMegaCorpInt:
         return 6.0
-    return 2.0
+    return 4.0
 
 
 def getFactoryMeritMultiplier(factoryId):

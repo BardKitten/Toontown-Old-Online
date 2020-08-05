@@ -290,11 +290,11 @@ class DistributedBanquetTable(DistributedObject.DistributedObject, FSM.FSM, Banq
             indicator.request('Eating', eatingDuration)
         diner = self.diners[chairIndex]
         intervalName = 'eating-%d-%d' % (self.index, chairIndex)
-        eatInTime = 32.0 / 24.0
-        eatOutTime = 21.0 / 24.0
-        eatLoopTime = 19 / 24.0
+        eatInTime = 20.0 / 10.0
+        eatOutTime = 10.0 / 10.0
+        eatLoopTime = 10 / 10.0
         rightHand = diner.getRightHand()
-        waitTime = 5
+        waitTime = 3
         loopDuration = eatingDuration - eatInTime - eatOutTime - waitTime
         serviceLoc = self.serviceLocs[chairIndex]
 

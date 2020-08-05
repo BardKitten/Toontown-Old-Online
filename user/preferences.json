@@ -38,19 +38,19 @@
     "100000027": true,
     "100000029": true
   },
-  "cogInterface": true,
+  "cogInterface": false,
   "fov": 55.65949249267578,
   "fpsMeter": true,
   "fullscreen": false,
   "language": "English",
   "loadDisplay": "pandagl",
-  "musicVol": 1.0,
+  "musicVol": 0.0,
   "preferredShard": "Nuttyboro",
   "res": [
-    1280,
-    720
+    640,
+    480
   ],
-  "sfxVol": 1.0,
+  "sfxVol": 0.0,
   "speedchatPlus": true,
   "talk2speech": false,
   "toonChatSounds": true,

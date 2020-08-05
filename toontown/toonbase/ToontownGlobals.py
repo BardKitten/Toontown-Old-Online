@@ -592,18 +592,18 @@ BossCogAttackTimes = {BossCogElectricFence: 0,
  BossCogGearDirectedAttack: 4.84,
  BossCogOvertimeAttack: 5}
 BossCogDamageLevels = {BossCogElectricFence: 1,
- BossCogSwatLeft: 5,
- BossCogSwatRight: 5,
- BossCogAreaAttack: 10,
- BossCogFrontAttack: 3,
- BossCogRecoverDizzyAttack: 3,
- BossCogDirectedAttack: 3,
- BossCogStrafeAttack: 2,
+ BossCogSwatLeft: 15,
+ BossCogSwatRight: 15,
+ BossCogAreaAttack: 20,
+ BossCogFrontAttack: 10,
+ BossCogRecoverDizzyAttack: 10,
+ BossCogDirectedAttack: 10,
+ BossCogStrafeAttack: 8,
  BossCogGoonZap: 5,
- BossCogSlowDirectedAttack: 10,
- BossCogGavelStomp: 20,
- BossCogGavelHandle: 2,
- BossCogLawyerAttack: 5,
+ BossCogSlowDirectedAttack: 15,
+ BossCogGavelStomp: 30,
+ BossCogGavelHandle: 5,
+ BossCogLawyerAttack: 10,
  BossCogMoveAttack: 20,
  BossCogGolfAttack: 15,
  BossCogGolfAreaAttack: 15,
@@ -648,7 +648,7 @@ SellbotBossP3PosA = (-50, 40, 18)
 SellbotBossTopRampPosB = (80, -35, 18)
 SellbotBossTopRampTurnPosB = (80, 10, 18)
 SellbotBossP3PosB = (50, 60, 18)
-CashbotBossMaxDamage = 500
+CashbotBossMaxDamage = 1500
 CashbotBossOffstagePosHpr = (120,
  -195,
  0,
@@ -1346,13 +1346,13 @@ LawbotBossChairRow1PosB = (59.3, 48, 14.05)
 LawbotBossChairRow1PosA = (59.3, -18.2, 14.05)
 LawbotBossChairRow2PosB = (75.1, 48, 28.2)
 LawbotBossChairRow2PosA = (75.1, -18.2, 28.2)
-LawbotBossCannonBallMax = 12
+LawbotBossCannonBallMax = 24
 LawbotBossJuryBoxStartPos = (94, -8, 5)
 LawbotBossJuryBoxRelativeEndPos = (30, 0, 12.645)
 LawbotBossJuryBoxMoveTime = 70
 LawbotBossJurorsForBalancedScale = 8
 LawbotBossDamagePerJuror = 68
-LawbotBossCogJurorFlightTime = 10
+LawbotBossCogJurorFlightTime = 90
 LawbotBossCogJurorDistance = 75
 LawbotBossBaseJurorNpcId = 2001
 LawbotBossWitnessEpiloguePosHpr = (-3,
@@ -1467,8 +1467,8 @@ BossbotElevCamPosHpr = (0,
  0)
 BossbotFoodModelScale = 0.75
 BossbotNumFoodToExplode = 2
-BossbotBossServingDuration = 400
-BossbotPrepareBattleThreeDuration = 20
+BossbotBossServingDuration = 300
+BossbotPrepareBattleThreeDuration = 5
 WaiterBattleAPosHpr = (20,
  -400,
  0,
@@ -1499,39 +1499,39 @@ DinerBattleBPosHpr = (-20,
  0,
  0,
  0)
-BossbotBossMaxDamage = 200
-BossbotMaxSpeedDamage = 90
-BossbotSpeedRecoverRate = 20
-BossbotBossDifficultySettings = [(8,
+BossbotBossMaxDamage = 1000
+BossbotMaxSpeedDamage = 10
+BossbotSpeedRecoverRate = 5
+BossbotBossDifficultySettings = [(6,
   4,
   11,
   3,
-  30,
-  25),
- (9,
+  15,
+  14),
+ (6,
   5,
   12,
   6,
-  28,
-  26),
- (10,
+  14,
+  13),
+ (6,
   6,
   11,
   7,
-  26,
-  27),
- (8,
-  8,
+  13,
+  12),
+ (6,
+  7,
   12,
   8,
-  24,
-  28),
- (13,
-  5,
+  12,
+  11),
+ (6,
+  8,
   12,
   9,
-  22,
-  29)]
+  11,
+  10)]
 BossbotRollSpeedMax = 22
 BossbotRollSpeedMin = 7.5
 BossbotTurnSpeedMax = 60
