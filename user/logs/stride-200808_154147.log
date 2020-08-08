@@ -1,0 +1,199 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x2027F7B0>}
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Laser Field initCollisionGeom
+Laser Field initCollisionGeom
+CollisionEntry:
+  from render/Moonlight Mimi-100000020/camFloorRayNode/ccRay2Node
+  into render/stage401004184/ZoneEntity-0/-PandaNode/LB_Zone03a_egg/Collsion/stageFloorColl0 []
+  at 2 -8.2 -0.0309014
+  normal -0.000961985 0.000458579 0.999999
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Moonlight Mimi-100000020/camFloorRayNode/ccRay2Node
+  into render/stage401004184/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl1 []
+  at 2 38.4171 0.0596485
+  normal 9.26614e-005 -0.421613 0.906776
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Moonlight Mimi-100000020/camFloorRayNode/ccRay2Node
+  into render/stage401004184/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl1 []
+  at 2 51.0278 4.95142
+  normal 6.5559e-005 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Moonlight Mimi-100000020/camFloorRayNode/ccRay2Node
+  into render/stage401004184/ZoneEntity-0/-PandaNode/Z13_ALL/room/collsion/stageFloorColl2 []
+  at 28.8056 111.172 4.95065
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+spec = {'parentEntId': 100005, 'pos': LPoint3f(0, 0, 0)}
+h = None
+### newVec3 =  LVector3f(1.99998, 6.29999, 1.5)
+### newVec3 =  LVector3f(1.99998, 6.29999, 0)
+### newVec3 =  LVector3f(1.99998, 6.29999, 0.375)
+### newVec3 =  LVector3f(1.99998, 6.29999, 0)
+CollisionEntry:
+  from render/Moonlight Mimi-100000020/camFloorRayNode/ccRay2Node
+  into render/stage401004184/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl3 []
+  at 27.9887 380.468 4.9526
+  normal 0.000133877 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Moonlight Mimi-100000020/camFloorRayNode/ccRay2Node
+  into render/stage401004184/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl3 []
+  at 27.8322 382.768 4.99108
+  normal 9.26614e-005 -0.421613 0.906776
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Moonlight Mimi-100000020/camFloorRayNode/ccRay2Node
+  into render/stage401004184/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl3 []
+  at 26.0299 395.631 9.95174
+  normal 6.5559e-005 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Moonlight Mimi-100000020/camFloorRayNode/ccRay2Node
+  into render/stage401004184/ZoneEntity-0/-PandaNode/Z07_ALL/stageFloorColl4 []
+  at 57.3711 455.739 9.95244
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Moonlight Mimi-100000020/NPW.cRayNode
+  into render/stage401004184/ZoneEntity-0/-PandaNode/Z07_ALL/stageFloorColl4 []
+  at 41.7767 490.461 9.95182
+  normal 0 0 1
+  respect_prev_transform = 1
+
+
+CollisionEntry:
+  from render/Moonlight Mimi-100000020/camFloorRayNode/ccRay2Node
+  into render/stage401004184/ZoneEntity-0/-PandaNode/Z07_ALL/stageFloorColl4 []
+  at 36.6439 498.536 9.95212
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Moonlight Mimi-100000020/NPW.cRayNode
+  into render/stage401004184/ZoneEntity-0/-PandaNode/Z07_ALL/stageFloorColl4 []
+  at 30.6546 509.833 18.6501
+  normal 0 0 1
+  respect_prev_transform = 1
+
+
+CollisionEntry:
+  from render/Moonlight Mimi-100000020/camFloorRayNode/ccRay2Node
+  into render/stage401004184/ZoneEntity-0/-PandaNode/Z07_ALL/stageFloorColl4 []
+  at 30.6631 509.809 18.6503
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Moonlight Mimi-100000020/camFloorRayNode/ccRay2Node
+  into render/stage401004184/ZoneEntity-0/-PandaNode/Z07_ALL/stageFloorColl4 []
+  at 19.7279 531.565 13.2126
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Moonlight Mimi-100000020/NPW.cRayNode
+  into render/stage401004184/ZoneEntity-0/-PandaNode/Z07_ALL/stageFloorColl4 []
+  at 5.27151 530.407 18.0036
+  normal 0 0 1
+  respect_prev_transform = 1
+
+
+CollisionEntry:
+  from render/Moonlight Mimi-100000020/camFloorRayNode/ccRay2Node
+  into render/stage401004184/ZoneEntity-0/-PandaNode/Z07_ALL/stageFloorColl4 []
+  at 5.47881 530.443 18.009
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Moonlight Mimi-100000020/NPW.cRayNode
+  into render/stage401004184/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl5 []
+  at -9.50419 527.837 17.6408
+  normal 0 -0.0012142 0.999999
+  respect_prev_transform = 1
+
+
+CollisionEntry:
+  from render/Moonlight Mimi-100000020/NPW.cRayNode
+  into render/stage401004184/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl5 []
+  at -11.681 527.458 17.6942
+  normal 0.420737 -0.00110176 0.907182
+  respect_prev_transform = 1
+
+
+CollisionEntry:
+  from render/Moonlight Mimi-100000020/camFloorRayNode/ccRay2Node
+  into render/stage401004184/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl5 []
+  at -9.40849 527.854 17.6409
+  normal 0 -0.0012142 0.999999
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Moonlight Mimi-100000020/camFloorRayNode/ccRay2Node
+  into render/stage401004184/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl5 []
+  at -11.6331 527.467 17.672
+  normal 0.420737 -0.00110176 0.907182
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Moonlight Mimi-100000020/camFloorRayNode/ccRay2Node
+  into render/stage401004184/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl5 []
+  at -24.474 526.861 22.6292
+  normal 0.000218784 -0.000597282 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Moonlight Mimi-100000020/camFloorRayNode/ccRay2Node
+  into render/stage401004184/ZoneEntity-0/-PandaNode/Z13_ALL/room/collsion/stageFloorColl6 []
+  at -84.5097 493.927 22.619
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None

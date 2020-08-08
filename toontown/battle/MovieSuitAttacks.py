@@ -2433,7 +2433,7 @@ def doShake(attack):
     damageAnims = [['slip-forward'], ['slip-forward', 0.01]]
     dodgeAnims = [['jump'], ['jump', 0.01]]
     toonTracks = getToonTracks(attack, damageDelay=1.1, splicedDamageAnims=damageAnims, dodgeDelay=0.7, splicedDodgeAnims=dodgeAnims, showMissedExtraTime=2.8, showDamageExtraTime=1.1)
-    soundTrack = getSoundTrack('SA_tremor.ogg', delay=0.9, node=suit)
+    soundTrack = getSoundTrack('SA_shake.mp3', delay=0.9, node=suit)
     return Parallel(suitTrack, soundTrack, toonTracks)
 
 
@@ -3014,7 +3014,7 @@ def doCrunch(attack):
      0.22])
     damageAnims.append(['slip-forward', 0.01, 0.6])
     toonTrack = getToonTrack(attack, damageDelay=4.7, splicedDamageAnims=damageAnims, dodgeDelay=3.6, dodgeAnimNames=['sidestep'])
-    soundTrack = getSoundTrack('AA_drop_bigweight.ogg', delay=2.9, node=suit)
+    soundTrack = getSoundTrack('AA_drop_bigweight.ogg', delay=4.7, node=suit)
     return Parallel(suitTrack, toonTrack, soundTrack, numberSpillTrack1, numberSpillTrack2, numberTracks, numberSprayTracks)
 
 

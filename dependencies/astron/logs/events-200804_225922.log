@@ -1,0 +1,9 @@
+{"_time": "2020-08-04 22:59:22Eastern Daylight Time", "type": "log-opened", "sender": "EventLogger", "msg": "Log opened upon Event Logger startup."}
+{"_time": "2020-08-04 22:59:31Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000054, "_2": "2000|18"}
+{"_time": "2020-08-04 22:59:31Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000060, "_2": "2000|14"}
+{"_time": "2020-08-04 22:59:31Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000066, "_2": "2000|16"}
+{"_time": "2020-08-04 22:59:31Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000072, "_2": "2000|21"}
+{"_time": "2020-08-04 22:59:31Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000078, "_2": "2000|13"}
+{"_time": "2020-08-04 22:59:45Eastern Daylight Time", "type": "client-connected", "sender": "Client:1000000000", "remote_address": "127.0.0.1:52344", "local_address": "127.0.0.1:7199"}
+{"_time": "2020-08-04 22:59:45Eastern Daylight Time", "type": "accountLogin", "sender": "AIR:1000000", "_1": 1000000000, "_2": 100000014, "_3": "jedi"}
+{"_time": "2020-08-04 22:59:51Eastern Daylight Time", "type": "client-disconnected", "sender": "Client:1000000000"}

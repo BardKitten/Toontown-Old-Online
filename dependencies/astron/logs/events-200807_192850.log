@@ -1,0 +1,6 @@
+{"_time": "2020-08-07 19:28:50Eastern Daylight Time", "type": "log-opened", "sender": "EventLogger", "msg": "Log opened upon Event Logger startup."}
+{"_time": "2020-08-07 19:29:35Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000054, "_2": "2000|18"}
+{"_time": "2020-08-07 19:29:35Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000060, "_2": "2000|14"}
+{"_time": "2020-08-07 19:29:35Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000066, "_2": "2000|16"}
+{"_time": "2020-08-07 19:29:35Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000072, "_2": "2000|21"}
+{"_time": "2020-08-07 19:29:35Eastern Daylight Time", "type": "building-toon", "sender": "AIR:401000000", "_1": 401000078, "_2": "2000|13"}
