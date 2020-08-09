@@ -1,0 +1,956 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x2024E7B0>}
+__handleAvatarChooserDone: 100000021, 'Master Cool Cat', ('css', 'ms', 's', 'm', (0.3, 0.3, 0.35, 1.0), (1.0, 1.0, 1.0, 1.0), (0.3, 0.3, 0.35, 1.0), (0.3, 0.3, 0.35, 1.0), 111, 27, 98, 27, 41, 27), 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+spec = {'parentEntId': 10014, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10037, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10030, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10023, 'pos': LPoint3f(0, 0, 0)}
+h = None
+### newVec3 =  LVector3f(2, 6.29999, 1.5)
+### newVec3 =  LVector3f(2, 6.29999, 0)
+### newVec3 =  LVector3f(2, 6.29999, 0.375)
+### newVec3 =  LVector3f(2, 6.29999, 0)
+spec = {'parentEntId': 10032, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10036, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10034, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 20058, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10047, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10068, 'pos': LPoint3f(-20, -10, 0)}
+h = None
+spec = {'parentEntId': 10064, 'pos': LPoint3f(0, 0, 0)}
+h = None
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+spec = {'parentEntId': 10002, 'pos': LPoint3f(0, 0, 0)}
+h = None
+### newVec3 =  LVector3f(-2, 6.3, 1.5)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+### newVec3 =  LVector3f(-2, 6.3, 0.375)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+spec = {'parentEntId': 10010, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10007, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10005, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10060, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10022, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10005, 'pos': LPoint3f(0, 0, 0)}
+h = None
+chooseFireOpenShot <function avatarCloseUpThreeQuarterRightShot at 0x1B1B16F0>
+chooseFireOpenShot <function avatarCloseUpFireShot at 0x1B1B1C30>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Laser Field initCollisionGeom
+Laser Field initCollisionGeom
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005370/ZoneEntity-0/-PandaNode/LB_Zone03a_egg/Collsion/stageFloorColl0 []
+  at 0 -6.2381 -0.0337253
+  normal -0.000961985 0.000458579 0.999999
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005370/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl1 []
+  at 0 38.4159 0.0593338
+  normal 9.26614e-005 -0.421613 0.906776
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005370/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl1 []
+  at 0 51.0642 4.95155
+  normal 6.5559e-005 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005370/ZoneEntity-0/-PandaNode/Z07_ALL/stageFloorColl2 []
+  at 28.7072 111.355 4.95251
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005370/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl3 []
+  at -38.4018 181.923 12.6207
+  normal 0 0.000133877 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005370/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl3 []
+  at -40.91 182.255 12.7837
+  normal 0.421613 9.26799e-005 0.906776
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005370/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl3 []
+  at -50.2763 183.495 12.6205
+  normal 0 0.000133877 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005370/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl3 []
+  at -53.3902 183.908 17.6197
+  normal 0 6.5559e-005 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005370/ZoneEntity-0/-PandaNode/LB_Zone04a_egg/Z04/collision_lobby/stageFloorColl4 []
+  at -113.77 208.5 17.619
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005370/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl5 []
+  at -248.22 207.963 17.6261
+  normal 0 -0.0012142 0.999999
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005370/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl5 []
+  at -250.336 209.661 17.73
+  normal 0.420737 -0.00110176 0.907182
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005370/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl5 []
+  at -263.316 209.347 22.6179
+  normal 0.000218784 -0.000597282 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005370/ZoneEntity-0/-PandaNode/Z13_ALL/room/collsion/stageFloorColl6 []
+  at -323.025 175.329 22.6082
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+### newVec3 =  LVector3f(2.00003, 6.29999, 1.5)
+### newVec3 =  LVector3f(2.00003, 6.29999, 0)
+### newVec3 =  LVector3f(2.00003, 6.29999, 0.375)
+### newVec3 =  LVector3f(2.00003, 6.29999, 0)
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005370/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl7 []
+  at -592.438 176.332 22.624
+  normal 0 -0.0012142 0.999999
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005370/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl7 []
+  at -594.941 176.332 22.8114
+  normal 0.420737 -0.00110176 0.907182
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005370/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl7 []
+  at -607.598 177.482 27.6167
+  normal 0.000218784 -0.000597282 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005370/ZoneEntity-0/-PandaNode/Z22a/room/collsion/stageFloorColl8 []
+  at -667.88 143.895 27.4877
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+Laser Field initCollisionGeom
+Laser Field initCollisionGeom
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005499/ZoneEntity-0/-PandaNode/LB_Zone03a_egg/Collsion/stageFloorColl0 []
+  at 2 -10.2 -0.0299842
+  normal -0.000961985 0.000458579 0.999999
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005499/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl1 []
+  at 2 38.2905 0.0566392
+  normal -0.00110178 -0.420737 0.907182
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005499/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl1 []
+  at 3.37086 50.8901 4.96194
+  normal -0.000597282 -0.000218784 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005499/ZoneEntity-0/-PandaNode/Z13_ALL/room/collsion/stageFloorColl2 []
+  at -32.6589 111.116 4.95065
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005499/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl3 []
+  at -30.9415 381.733 4.95262
+  normal 0.000133877 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005499/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl3 []
+  at -30.5475 383.222 5.23845
+  normal 9.26614e-005 -0.421613 0.906776
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005499/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl3 []
+  at -29.7263 400.132 9.95154
+  normal 6.5559e-005 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005499/ZoneEntity-0/-PandaNode/Z13_ALL/room/collsion/stageFloorColl4 []
+  at -4.35315 456.497 9.95065
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+spec = {'parentEntId': 100005, 'pos': LPoint3f(0, 0, 0)}
+h = None
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005499/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl5 []
+  at -1.0075 725 9.96945
+  normal -0.0012142 0 0.999999
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005499/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl5 []
+  at -0.218222 727.133 10.0194
+  normal -0.00110178 -0.420737 0.907182
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005499/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl5 []
+  at -1.35418 740.144 14.9598
+  normal -0.000597282 -0.000218784 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005499/ZoneEntity-0/-PandaNode/Z07_ALL/stageFloorColl6 []
+  at -31.6262 799.796 14.9524
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005499/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl7 []
+  at -98.3712 872.45 22.6205
+  normal 0 0.000133877 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005499/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl7 []
+  at -100.566 872.339 22.7227
+  normal 0.421613 9.26799e-005 0.906776
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005499/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl7 []
+  at -113.387 871.691 27.6198
+  normal 0 6.5559e-005 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005499/ZoneEntity-0/-PandaNode/Z22a/room/collsion/stageFloorColl8 []
+  at -173.553 897.728 27.4985
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005696/ZoneEntity-0/-PandaNode/LB_Zone03a_egg/Collsion/stageFloorColl0 []
+  at 0 -7.2 -0.0332839
+  normal -0.000961985 0.000458579 0.999999
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005696/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl1 []
+  at 0 38.6708 0.177837
+  normal 9.26614e-005 -0.421613 0.906776
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005696/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl1 []
+  at -2.41452 51.6553 4.95171
+  normal 6.5559e-005 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005696/ZoneEntity-0/-PandaNode/Z13_ALL/room/collsion/stageFloorColl2 []
+  at 28.8956 111.257 4.95065
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005696/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl3 []
+  at 26.4501 380.451 4.9528
+  normal 0.000133877 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005696/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl3 []
+  at 26.4501 383.18 5.18271
+  normal 9.26614e-005 -0.421613 0.906776
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005696/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl3 []
+  at 24.4244 395.622 9.95184
+  normal 6.5559e-005 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005696/ZoneEntity-0/-PandaNode/Z07_ALL/stageFloorColl4 []
+  at 53.8781 455.954 9.95144
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005696/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl5 []
+  at -9.47598 523.359 17.6211
+  normal 0 0.000133877 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005696/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl5 []
+  at -11.6838 523.762 17.6399
+  normal 0.421613 9.26799e-005 0.906776
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005696/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl5 []
+  at -24.432 526.089 22.6199
+  normal 0 6.5559e-005 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005696/ZoneEntity-0/-PandaNode/Z13_ALL/room/collsion/stageFloorColl6 []
+  at -84.9756 551.683 22.619
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005696/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl7 []
+  at -353.827 550.318 22.633
+  normal 0 -0.0012142 0.999999
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005696/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl7 []
+  at -356.126 549.339 22.6606
+  normal 0.420737 -0.00110176 0.907182
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005696/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl7 []
+  at -369.45 549.037 27.6253
+  normal 0.000218784 -0.000597282 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005696/ZoneEntity-0/-PandaNode/Z22a/room/collsion/stageFloorColl8 []
+  at -429.644 522.94 27.4985
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+Laser Field initCollisionGeom
+Laser Field initCollisionGeom
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005850/ZoneEntity-0/-PandaNode/LB_Zone03a_egg/Collsion/stageFloorColl0 []
+  at -1 -10.2 -0.0328703
+  normal -0.000961985 0.000458579 0.999999
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005850/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl1 []
+  at -1 38.2978 0.0563841
+  normal -0.00110178 -0.420737 0.907182
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005850/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl1 []
+  at 0.555633 51.1502 4.96031
+  normal -0.000597282 -0.000218784 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005850/ZoneEntity-0/-PandaNode/Z07_ALL/stageFloorColl2 []
+  at -28.7164 111.207 4.95291
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+stage pos: LPoint3f(-6, 0, 0), h: -90.0, room: LawbotOfficeGearRoom_Battle00
+stage pos: LPoint3f(-6, 0, 0), h: -90.0, room: LawbotOfficeGearRoom_Battle00
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005850/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl3 []
+  at -97.3431 182.784 12.6403
+  normal 0 -0.0012142 0.999999
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005850/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl3 []
+  at -99.389 181.935 12.6848
+  normal 0.420737 -0.00110176 0.907182
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005850/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl3 []
+  at -112.138 176.451 17.6257
+  normal 0.000218784 -0.000597282 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005850/ZoneEntity-0/-PandaNode/Z13_ALL/room/collsion/stageFloorColl4 []
+  at -172.498 149.58 17.619
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005850/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl5 []
+  at -441.561 147.457 17.6337
+  normal 0 -0.0012142 0.999999
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005850/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl5 []
+  at -443.782 147.003 17.6654
+  normal 0.420737 -0.00110176 0.907182
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005850/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl5 []
+  at -456.633 146.477 22.6257
+  normal 0.000218784 -0.000597282 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005850/ZoneEntity-0/-PandaNode/LB_Zone04a_egg/Z04/collision_lobby/stageFloorColl6 []
+  at -516.693 125.258 22.619
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005850/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl7 []
+  at -651.272 122.004 22.6097
+  normal 0 0.000133877 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005850/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl7 []
+  at -653.805 122.035 22.8229
+  normal 0.421613 9.26799e-005 0.906776
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005850/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl7 []
+  at -660.51 122.118 22.6097
+  normal 0 0.000133877 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005850/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl7 []
+  at -666.162 121.352 27.609
+  normal 0 6.5559e-005 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005850/ZoneEntity-0/-PandaNode/Z22a/room/collsion/stageFloorColl8 []
+  at -727.003 149.88 27.4877
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+Laser Field initCollisionGeom
+Laser Field initCollisionGeom
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005999/ZoneEntity-0/-PandaNode/LB_Zone03a_egg/Collsion/stageFloorColl0 []
+  at 1 -10.2 -0.0309463
+  normal -0.000961985 0.000458579 0.999999
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005999/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl1 []
+  at 1 38.3388 0.023375
+  normal 9.26614e-005 -0.421613 0.906776
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005999/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl1 []
+  at 1 51.1002 4.95148
+  normal 6.5559e-005 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005999/ZoneEntity-0/-PandaNode/LB_Zone04a_egg/Z04/collision_lobby/stageFloorColl2 []
+  at 27.3096 111.314 4.95065
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005999/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl3 []
+  at 26.9461 245.714 4.95758
+  normal -0.0012142 0 0.999999
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005999/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl3 []
+  at 27.3807 247.922 5.04112
+  normal -0.00110178 -0.420737 0.907182
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005999/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl3 []
+  at 30.5259 260.736 9.95072
+  normal -0.000597282 -0.000218784 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005999/ZoneEntity-0/-PandaNode/Z07_ALL/stageFloorColl4 []
+  at -4.38535 320.846 9.94105
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/stage401005999/ZoneEntity-0/PlatformEntity-100010/MovingPlatform-4100015/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005999/ZoneEntity-0/-PandaNode/Z07_ALL/stageFloorColl4 []
+  at -4.60635 366.84 9.94407
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005999/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl5 []
+  at -69.3301 392.477 17.6295
+  normal 0 -0.0012142 0.999999
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005999/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl5 []
+  at -71.5652 392.149 17.6639
+  normal 0.420737 -0.00110176 0.907182
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005999/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl5 []
+  at -84.4251 390.453 22.6175
+  normal 0.000218784 -0.000597282 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005999/ZoneEntity-0/-PandaNode/Z07_ALL/stageFloorColl6 []
+  at -144.453 359.464 22.6098
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005999/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl7 []
+  at -214.713 293.128 30.2783
+  normal -0.000133877 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005999/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl7 []
+  at -213.037 290.686 30.4611
+  normal -9.26983e-005 0.421613 0.906776
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005999/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl7 []
+  at -215.31 278.265 35.2774
+  normal -6.5559e-005 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401005999/ZoneEntity-0/-PandaNode/Z22a/room/collsion/stageFloorColl8 []
+  at -240.152 217.878 35.1561
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401006157/ZoneEntity-0/-PandaNode/LB_Zone03a_egg/Collsion/stageFloorColl0 []
+  at -1 -6.2 -0.0347047
+  normal -0.000961985 0.000458579 0.999999
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401006157/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl1 []
+  at -1 38.6575 0.171754
+  normal 9.26614e-005 -0.421613 0.906776
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401006157/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl1 []
+  at -3.20377 51.242 4.95176
+  normal 6.5559e-005 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401006157/ZoneEntity-0/-PandaNode/Z13_ALL/room/collsion/stageFloorColl2 []
+  at 27.6706 111.361 4.95065
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401006157/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl3 []
+  at 26.4501 380.524 4.96649
+  normal -0.0012142 0 0.999999
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401006157/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl3 []
+  at 26.4501 383.052 5.17304
+  normal -0.00110178 -0.420737 0.907182
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401006157/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl3 []
+  at 27.8503 395.562 9.95932
+  normal -0.000597282 -0.000218784 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401006157/ZoneEntity-0/-PandaNode/LB_Zone04a_egg/Z04/collision_lobby/stageFloorColl4 []
+  at -5.86081 455.714 9.95065
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401006157/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl5 []
+  at -4.18221 590.271 9.94188
+  normal 0.000133877 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401006157/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl5 []
+  at -4.10665 592.65 10.1314
+  normal 9.26614e-005 -0.421613 0.906776
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401006157/LB_connector_7cubeLR.egg/-PandaNode/LB_connector_7cubeLR_egg/collison/stageFloorColl5 []
+  at -5.71616 605.258 14.9409
+  normal 6.5559e-005 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401006157/ZoneEntity-0/-PandaNode/Z08_ALL/Z08/boiler_room/collsion_boiler_room/stageFloorColl6 []
+  at 25.2079 665.019 14.9228
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401006157/ZoneEntity-0/-PandaNode/Z08_ALL/Z08/boiler_room/collsion_boiler_room/stageFloorColl6 []
+  at 37.3024 786.228 14.9826
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401006157/ZoneEntity-0/-PandaNode/Z08_ALL/Z08/boiler_room/collsion_boiler_room/stageFloorColl6 []
+  at 60.7979 786.664 25.2479
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401006157/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl7 []
+  at 105.54 734.355 25.8534
+  normal 0 0.0012142 0.999999
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401006157/ZoneEntity-0/-PandaNode/Z08_ALL/Z08/boiler_room/collsion_boiler_room/stageFloorColl6 []
+  at 106.738 734.533 25.8553
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401006157/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl7 []
+  at 107.863 734.7 26.016
+  normal -0.420737 0.00110179 0.907182
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401006157/LB_connector_7cubeL2.egg/-PandaNode/LB_connector_7cubeL2_egg/collison/stageFloorColl7 []
+  at 120.435 734.249 30.8452
+  normal -0.000218784 0.000597282 1
+  respect_prev_transform = 0
+
+
+CollisionEntry:
+  from render/Master Cool Cat-100000021/camFloorRayNode/ccRay2Node
+  into render/stage401006157/ZoneEntity-0/-PandaNode/Z22a/room/collsion/stageFloorColl8 []
+  at 180.701 764.462 30.7165
+  normal 0 0 1
+  respect_prev_transform = 0
+
+
+spec = {'parentEntId': 10000, 'pos': LPoint3f(0, 0, 0)}
+h = None
+chooseFireOpenShot <function avatarCloseUpThrowShot at 0x1B1B16B0>
+chooseFireOpenShot <function allGroupLowShot at 0x1B1B1430>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function avatarBehindShot at 0x1B1B1830>
+chooseFireOpenShot <function avatarCloseUpThreeQuarterLeftFireShot at 0x1B1B1C70>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function allGroupLowShot at 0x1B1B1430>
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x1B1B15B0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function allGroupLowShot at 0x1B1B1430>
+chooseFireOpenShot <function allGroupLowShot at 0x1B1B1430>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+entered wait for zone redirect
+entered wait for set zone response - 2

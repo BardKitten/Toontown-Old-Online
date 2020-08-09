@@ -1,0 +1,15 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x202897D8>}
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x202897D8>}
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x202897D8>}
+__handleAvatarChooserDone: 100000021, 'Master Cool Cat', ('css', 'ms', 's', 'm', (0.3, 0.3, 0.35, 1.0), (1.0, 1.0, 1.0, 1.0), (0.3, 0.3, 0.35, 1.0), (0.3, 0.3, 0.35, 1.0), 111, 27, 98, 27, 41, 27), 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+chooseFireOpenShot <function avatarCloseUpThreeQuarterRightShot at 0x1B8856F0>
+chooseFireOpenShot <function avatarCloseUpThreeQuarterLeftFireShot at 0x1B885C70>

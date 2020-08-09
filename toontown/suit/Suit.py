@@ -66,6 +66,7 @@ hh = (('pen-squirt', 'fountain-pen', 7),
  ('glower', 'glower', 5),
  ('throw-paper', 'throw-paper', 5),
  ('magic1', 'magic1', 5),
+ ('magic2', 'magic2', 5),
  ('magic3', 'magic3', 5),
  ('roll-o-dex', 'roll-o-dex', 5))
 cr = (('pickpocket', 'pickpocket', 5), ('throw-paper', 'throw-paper', 3.5), ('glower', 'glower', 5))

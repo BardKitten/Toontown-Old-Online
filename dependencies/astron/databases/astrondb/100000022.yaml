@@ -1,0 +1,12 @@
+id: 100000022
+class: Account
+fields:
+  ACCOUNT_AV_SET: "[0, 0, 100000023, 0, 0, 0]"
+  ESTATE_ID: 0
+  ACCOUNT_AV_SET_DEL: "[]"
+  CREATED: "\"Sun Aug 09 10:13:16 2020\""
+  LAST_LOGIN: "\"Sun Aug 09 10:13:16 2020\""
+  ACCOUNT_ID: "\"help\""
+  ACCESS_LEVEL: 700
+  LAST_LOGIN_TS: 1596982397
+  CHAT_SETTINGS: "[1, 1]"

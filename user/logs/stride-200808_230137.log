@@ -1,0 +1,90 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1F3643C8>}
+__handleAvatarChooserDone: 100000021, 'Master Cool Cat', ('css', 'ms', 's', 'm', (0.3, 0.3, 0.35, 1.0), (1.0, 1.0, 1.0, 1.0), (0.3, 0.3, 0.35, 1.0), (0.3, 0.3, 0.35, 1.0), 111, 27, 98, 27, 41, 27), 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+../resources/phase_3/audio/sfx
+../resources/phase_3.5/audio/sfx
+../resources/phase_4/audio/sfx
+../resources/phase_5/audio/sfx
+/phase_3/audio/sfx
+/phase_3.5/audio/sfx
+/phase_4/audio/sfx
+/phase_5/audio/sfx
+
+../resources/phase_3/audio/sfx
+../resources/phase_3.5/audio/sfx
+../resources/phase_4/audio/sfx
+../resources/phase_5/audio/sfx
+/phase_3/audio/sfx
+/phase_3.5/audio/sfx
+/phase_4/audio/sfx
+/phase_5/audio/sfx
+
+../resources/phase_3/audio/sfx
+../resources/phase_3.5/audio/sfx
+../resources/phase_4/audio/sfx
+../resources/phase_5/audio/sfx
+/phase_3/audio/sfx
+/phase_3.5/audio/sfx
+/phase_4/audio/sfx
+/phase_5/audio/sfx
+
+chooseFireOpenShot <function avatarCloseUpThreeQuarterRightShot at 0x1A9598B0>
+chooseFireOpenShot <function avatarCloseUpFireShot at 0x1A959DF0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x1A959770>
+chooseFireOpenShot <function avatarCloseUpThreeQuarterLeftFireShot at 0x1A959E30>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x1A959770>
+chooseFireOpenShot <function avatarCloseUpThreeQuarterLeftFireShot at 0x1A959E30>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+../resources/phase_3/audio/sfx
+../resources/phase_3.5/audio/sfx
+../resources/phase_4/audio/sfx
+../resources/phase_5/audio/sfx
+/phase_3/audio/sfx
+/phase_3.5/audio/sfx
+/phase_4/audio/sfx
+/phase_5/audio/sfx
+
+../resources/phase_3/audio/sfx
+../resources/phase_3.5/audio/sfx
+../resources/phase_4/audio/sfx
+../resources/phase_5/audio/sfx
+/phase_3/audio/sfx
+/phase_3.5/audio/sfx
+/phase_4/audio/sfx
+/phase_5/audio/sfx
+
+chooseFireOpenShot <function avatarBehindShot at 0x1A9599F0>
+chooseFireOpenShot <function avatarCloseUpFireShot at 0x1A959DF0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+../resources/phase_3/audio/sfx
+../resources/phase_3.5/audio/sfx
+../resources/phase_4/audio/sfx
+../resources/phase_5/audio/sfx
+/phase_3/audio/sfx
+/phase_3.5/audio/sfx
+/phase_4/audio/sfx
+/phase_5/audio/sfx
+
+../resources/phase_3/audio/sfx
+../resources/phase_3.5/audio/sfx
+../resources/phase_4/audio/sfx
+../resources/phase_5/audio/sfx
+/phase_3/audio/sfx
+/phase_3.5/audio/sfx
+/phase_4/audio/sfx
+/phase_5/audio/sfx
+

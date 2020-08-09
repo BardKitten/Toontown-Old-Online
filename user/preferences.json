@@ -10,6 +10,7 @@
     "100000017": true,
     "100000020": true,
     "100000021": true,
+    "100000023": true,
     "100000026": true,
     "100000027": true,
     "100000029": true
@@ -25,6 +26,7 @@
     "100000017": true,
     "100000020": true,
     "100000021": true,
+    "100000023": true,
     "100000026": true,
     "100000027": true,
     "100000029": true
@@ -40,6 +42,7 @@
     "100000017": true,
     "100000020": true,
     "100000021": true,
+    "100000023": true,
     "100000026": true,
     "100000027": true,
     "100000029": true
@@ -50,8 +53,8 @@
   "fullscreen": false,
   "language": "English",
   "loadDisplay": "pandagl",
-  "musicVol": 1.0,
-  "preferredShard": "Nuttyboro",
+  "musicVol": 0.9319259643554687,
+  "preferredShard": "Master Cool Cat's Server",
   "res": [
     640,
     480
