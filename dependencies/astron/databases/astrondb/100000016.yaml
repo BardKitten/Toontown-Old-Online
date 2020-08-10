@@ -64,7 +64,7 @@ fields:
   setCogTypes: ([0, 0, 0, 0])
   setCogParts: ([0, 0, 0, 0])
   setCogMerits: ([0, 0, 0, 0])
-  setHouseId: (0)
+  setHouseId: (100000028)
   setQuests: ([110, 1, 1000, 100, 1])
   setQuestHistory: ([101])
   setRewardHistory: (1, [])

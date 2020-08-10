@@ -1,0 +1,714 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x202922B0>}
+__handleAvatarChooserDone: 100000017, 'Master Cool Cat', ('css', 'ms', 's', 'm', (0.3, 0.3, 0.35, 1.0), (1.0, 1.0, 1.0, 1.0), (0.3, 0.3, 0.35, 1.0), (0.3, 0.3, 0.35, 1.0), 99, 27, 12, 27, 6, 27), 1
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DG.pdna
+Reading DNA file... phase_8/dna/storage_DG_sz.pdna
+Reading DNA file... phase_8/dna/daisys_garden_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_8/dna/storage_DG_town.pdna
+Reading DNA file... phase_8/dna/daisys_garden_5100.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_8/dna/storage_DG_town.pdna
+Reading DNA file... phase_8/dna/daisys_garden_5100.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DG.pdna
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_8/dna/storage_DG_town.pdna
+Reading DNA file... phase_8/dna/daisys_garden_5100.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DG.pdna
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_8/dna/storage_DG_town.pdna
+Reading DNA file... phase_8/dna/daisys_garden_5300.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_8/dna/storage_DG_town.pdna
+Reading DNA file... phase_8/dna/daisys_garden_5300.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DG.pdna
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_8/dna/storage_DG_town.pdna
+Reading DNA file... phase_8/dna/daisys_garden_5300.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+spec = {'parentEntId': 10014, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10047, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10068, 'pos': LPoint3f(-20, -10, 0)}
+h = None
+spec = {'parentEntId': 10064, 'pos': LPoint3f(0, 0, 0)}
+h = None
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DG.pdna
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_8/dna/storage_DG_town.pdna
+Reading DNA file... phase_8/dna/daisys_garden_5300.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DG.pdna
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_8/dna/storage_DG_town.pdna
+Reading DNA file... phase_8/dna/daisys_garden_5300.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+spec = {'parentEntId': 10047, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10068, 'pos': LPoint3f(-20, -10, 0)}
+h = None
+spec = {'parentEntId': 10064, 'pos': LPoint3f(0, 0, 0)}
+h = None
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DG.pdna
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_8/dna/storage_DG_town.pdna
+Reading DNA file... phase_8/dna/daisys_garden_5300.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+spec = {'parentEntId': 10047, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10068, 'pos': LPoint3f(-20, -10, 0)}
+h = None
+spec = {'parentEntId': 10064, 'pos': LPoint3f(0, 0, 0)}
+h = None
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DG.pdna
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_8/dna/storage_DG_town.pdna
+Reading DNA file... phase_8/dna/daisys_garden_5300.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+spec = {'parentEntId': 10047, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10068, 'pos': LPoint3f(-20, -10, 0)}
+h = None
+spec = {'parentEntId': 10064, 'pos': LPoint3f(0, 0, 0)}
+h = None
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DG.pdna
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_8/dna/storage_DG_town.pdna
+Reading DNA file... phase_8/dna/daisys_garden_5300.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_8/dna/storage_DG_town.pdna
+Reading DNA file... phase_8/dna/daisys_garden_5300.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+spec = {'parentEntId': 10047, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10068, 'pos': LPoint3f(-20, -10, 0)}
+h = None
+spec = {'parentEntId': 10064, 'pos': LPoint3f(0, 0, 0)}
+h = None
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DG.pdna
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_8/dna/storage_DG_town.pdna
+Reading DNA file... phase_8/dna/daisys_garden_5300.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DG.pdna
+Reading DNA file... phase_5/dna/storage_town.pdna
+Reading DNA file... phase_8/dna/storage_DG_town.pdna
+Reading DNA file... phase_8/dna/daisys_garden_5300.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+spec = {'parentEntId': 10047, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10068, 'pos': LPoint3f(-20, -10, 0)}
+h = None
+spec = {'parentEntId': 10064, 'pos': LPoint3f(0, 0, 0)}
+h = None
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+spec = {'parentEntId': 10047, 'pos': LPoint3f(0, 0, 0)}
+h = None
+spec = {'parentEntId': 10068, 'pos': LPoint3f(-20, -10, 0)}
+h = None
+spec = {'parentEntId': 10064, 'pos': LPoint3f(0, 0, 0)}
+h = None
+Exception occurred while processing Func-__handleFactoryRewardDone-37247 of movie-reward-track-with-cam-401008205:
+movie-reward-track-with-cam-401008205:
+  0.000 movie-reward-track-with-cam-401008205 {
+  0.000   movie-reward-track-401008205 {
+  0.000     Sequence-31211 {
+  0.000       Parallel-31219 {
+  0.000         Sequence-31213 {
+  0.000           *Func-show-37118
+  0.000           *Func-setOnscreenChatForced-37119
+  0.000           *Func-_setupSkipListen-37120
+  0.000           *Func-_teardownSkipListen-37239
+  0.000           *Func-_setupSkipListen-37240
+  0.000           Sequence-31216 {
+  0.000             *Func-initGagFrame-37121
+  0.000             Wait dur 1
+  1.000             *Func-showTrackIncLabel-37122
+  1.000             *Func-incrementExp-37123
+  1.000             Wait dur 0.1
+  1.100             *Func-incrementExp-37124
+  1.100             Wait dur 0.1
+  1.200             *Func-incrementExp-37125
+  1.200             Wait dur 0.1
+  1.300             *Func-incrementExp-37126
+  1.300             Wait dur 0.1
+  1.400             *Func-incrementExp-37127
+  1.400             Wait dur 0.1
+  1.500             *Func-incrementExp-37128
+  1.500             Wait dur 0.1
+  1.600             *Func-incrementExp-37129
+  1.600             Wait dur 0.1
+  1.700             *Func-incrementExp-37130
+  1.700             Wait dur 0.1
+  1.800             *Func-incrementExp-37131
+  1.800             Wait dur 0.1
+  1.900             *Func-incrementExp-37132
+  1.900             Wait dur 0.1
+  2.000             *Func-incrementExp-37133
+  2.000             Wait dur 0.1
+  2.100             *Func-incrementExp-37134
+  2.100             Wait dur 0.1
+  2.200             *Func-incrementExp-37135
+  2.200             Wait dur 0.1
+  2.300             *Func-incrementExp-37136
+  2.300             Wait dur 0.1
+  2.400             *Func-incrementExp-37137
+  2.400             Wait dur 0.1
+  2.500             *Func-incrementExp-37138
+  2.500             Wait dur 0.1
+  2.600             *Func-incrementExp-37139
+  2.600             Wait dur 0.1
+  2.700             *Func-incrementExp-37140
+  2.700             Wait dur 0.1
+  2.800             *Func-incrementExp-37141
+  2.800             Wait dur 0.1
+  2.900             *Func-incrementExp-37142
+  2.900             Wait dur 0.1
+  3.000             *Func-incrementExp-37143
+  3.000             Wait dur 0.1
+  3.100             *Func-incrementExp-37144
+  3.100             Wait dur 0.1
+  3.200             *Func-incrementExp-37145
+  3.200             Wait dur 0.1
+  3.300             *Func-incrementExp-37146
+  3.300             Wait dur 0.1
+  3.400             *Func-incrementExp-37147
+  3.400             Wait dur 0.1
+  3.500             *Func-incrementExp-37148
+  3.500             Wait dur 0.1
+  3.600             *Func-incrementExp-37149
+  3.600             Wait dur 0.1
+  3.700             *Func-incrementExp-37150
+  3.700             Wait dur 0.1
+  3.800             *Func-incrementExp-37151
+  3.800             Wait dur 0.1
+  3.900             *Func-incrementExp-37152
+  3.900             Wait dur 0.1
+  4.000             *Func-incrementExp-37153
+  4.000             Wait dur 0.1
+  4.100             *Func-incrementExp-37154
+  4.100             Wait dur 0.1
+  4.200             *Func-incrementExp-37155
+  4.200             Wait dur 0.1
+  4.300             *Func-incrementExp-37156
+  4.300             Wait dur 0.1
+  4.400             *Func-incrementExp-37157
+  4.400             Wait dur 0.1
+  4.500             *Func-incrementExp-37158
+  4.500             Wait dur 0.1
+  4.600             *Func-incrementExp-37159
+  4.600             Wait dur 0.1
+  4.700             *Func-incrementExp-37160
+  4.700             Wait dur 0.1
+  4.800             *Func-incrementExp-37161
+  4.800             Wait dur 0.1
+  4.900             *Func-incrementExp-37162
+  4.900             Wait dur 0.1
+  5.000             *Func-incrementExp-37163
+  5.000             Wait dur 0.1
+  5.100             *Func-incrementExp-37164
+  5.100             Wait dur 0.1
+  5.200             *Func-incrementExp-37165
+  5.200             Wait dur 0.1
+  5.300             *Func-incrementExp-37166
+  5.300             Wait dur 0.1
+  5.400             *Func-incrementExp-37167
+  5.400             Wait dur 0.1
+  5.500             *Func-incrementExp-37168
+  5.500             Wait dur 0.1
+  5.600             *Func-incrementExp-37169
+  5.600             Wait dur 0.1
+  5.700             *Func-incrementExp-37170
+  5.700             Wait dur 0.1
+  5.800             *Func-incrementExp-37171
+  5.800             Wait dur 0.1
+  5.900             *Func-incrementExp-37172
+  5.900             Wait dur 0.1
+  6.000             *Func-incrementExp-37173
+  6.000             Wait dur 0.1
+  6.100             *Func-incrementExp-37174
+  6.100             Wait dur 0.1
+  6.200             *Func-incrementExp-37175
+  6.200             Wait dur 0.1
+  6.300             *Func-incrementExp-37176
+  6.300             Wait dur 0.1
+  6.400             *Func-resetBarColor-37177
+  6.400             Wait dur 0.1
+  6.500             *Func-newGag-37178
+  6.500             Wait dur 1
+  7.500             *Func-setProp-37179
+  7.500             Wait dur 1
+  8.500             *Func-setProp-37180
+  8.500             Wait dur 1.5
+ 10.000             *Func-cleanupNewGag-37181
+ 10.000             *Func-showTrackIncLabel-37182
+ 10.000             *Func-incrementExp-37183
+ 10.000             Wait dur 0.1
+ 10.100             *Func-incrementExp-37184
+ 10.100             Wait dur 0.1
+ 10.200             *Func-incrementExp-37185
+ 10.200             Wait dur 0.1
+ 10.300             *Func-incrementExp-37186
+ 10.300             Wait dur 0.1
+ 10.400             *Func-incrementExp-37187
+ 10.400             Wait dur 0.1
+ 10.500             *Func-incrementExp-37188
+ 10.500             Wait dur 0.1
+ 10.600             *Func-incrementExp-37189
+ 10.600             Wait dur 0.1
+ 10.700             *Func-incrementExp-37190
+ 10.700             Wait dur 0.1
+ 10.800             *Func-incrementExp-37191
+ 10.800             Wait dur 0.1
+ 10.900             *Func-incrementExp-37192
+ 10.900             Wait dur 0.1
+ 11.000             *Func-incrementExp-37193
+ 11.000             Wait dur 0.1
+ 11.100             *Func-incrementExp-37194
+ 11.100             Wait dur 0.1
+ 11.200             *Func-incrementExp-37195
+ 11.200             Wait dur 0.1
+ 11.300             *Func-incrementExp-37196
+ 11.300             Wait dur 0.1
+ 11.400             *Func-incrementExp-37197
+ 11.400             Wait dur 0.1
+ 11.500             *Func-incrementExp-37198
+ 11.500             Wait dur 0.1
+ 11.600             *Func-incrementExp-37199
+ 11.600             Wait dur 0.1
+ 11.700             *Func-incrementExp-37200
+ 11.700             Wait dur 0.1
+ 11.800             *Func-incrementExp-37201
+ 11.800             Wait dur 0.1
+ 11.900             *Func-incrementExp-37202
+ 11.900             Wait dur 0.1
+ 12.000             *Func-incrementExp-37203
+ 12.000             Wait dur 0.1
+ 12.100             *Func-incrementExp-37204
+ 12.100             Wait dur 0.1
+ 12.200             *Func-incrementExp-37205
+ 12.200             Wait dur 0.1
+ 12.300             *Func-incrementExp-37206
+ 12.300             Wait dur 0.1
+ 12.400             *Func-incrementExp-37207
+ 12.400             Wait dur 0.1
+ 12.500             *Func-incrementExp-37208
+ 12.500             Wait dur 0.1
+ 12.600             *Func-incrementExp-37209
+ 12.600             Wait dur 0.1
+ 12.700             *Func-incrementExp-37210
+ 12.700             Wait dur 0.1
+ 12.800             *Func-incrementExp-37211
+ 12.800             Wait dur 0.1
+ 12.900             *Func-incrementExp-37212
+ 12.900             Wait dur 0.1
+ 13.000             *Func-incrementExp-37213
+ 13.000             Wait dur 0.1
+ 13.100             *Func-incrementExp-37214
+ 13.100             Wait dur 0.1
+ 13.200             *Func-incrementExp-37215
+ 13.200             Wait dur 0.1
+ 13.300             *Func-incrementExp-37216
+ 13.300             Wait dur 0.1
+ 13.400             *Func-incrementExp-37217
+ 13.400             Wait dur 0.1
+ 13.500             *Func-incrementExp-37218
+ 13.500             Wait dur 0.1
+ 13.600             *Func-incrementExp-37219
+ 13.600             Wait dur 0.1
+ 13.700             *Func-incrementExp-37220
+ 13.700             Wait dur 0.1
+ 13.800             *Func-incrementExp-37221
+ 13.800             Wait dur 0.1
+ 13.900             *Func-incrementExp-37222
+ 13.900             Wait dur 0.1
+ 14.000             *Func-incrementExp-37223
+ 14.000             Wait dur 0.1
+ 14.100             *Func-incrementExp-37224
+ 14.100             Wait dur 0.1
+ 14.200             *Func-incrementExp-37225
+ 14.200             Wait dur 0.1
+ 14.300             *Func-incrementExp-37226
+ 14.300             Wait dur 0.1
+ 14.400             *Func-incrementExp-37227
+ 14.400             Wait dur 0.1
+ 14.500             *Func-incrementExp-37228
+ 14.500             Wait dur 0.1
+ 14.600             *Func-incrementExp-37229
+ 14.600             Wait dur 0.1
+ 14.700             *Func-incrementExp-37230
+ 14.700             Wait dur 0.1
+ 14.800             *Func-incrementExp-37231
+ 14.800             Wait dur 0.1
+ 14.900             *Func-incrementExp-37232
+ 14.900             Wait dur 0.1
+ 15.000             *Func-incrementExp-37233
+ 15.000             Wait dur 0.1
+ 15.100             *Func-incrementExp-37234
+ 15.100             Wait dur 0.1
+ 15.200             *Func-incrementExp-37235
+ 15.200             Wait dur 0.1
+ 15.300             *Func-resetBarColor-37236
+ 15.300             Wait dur 0.1
+ 15.400             Wait dur 1
+ 16.400             *Func-initCogPartFrame-37238
+ 16.400             Wait dur 1
+ 17.400             *Func-setProp-37237
+ 17.400             Wait dur 1
+ 18.400             Wait dur 1
+ 19.400             Wait dur 0.25
+ 19.650           }
+ 19.650           *Func-_teardownSkipListen-37243
+ 19.650           *Func-destroy-37244
+ 19.650           *Func-hide-37245
+ 19.650           *Func-setOnscreenChatForced-37246
+ 19.650           Sequence-31215 {
+ 19.650           }
+ 19.650         }
+  0.000         *Sound-5080 dur 19.65
+ 19.650       }
+ 19.650       *Func-__handleFactoryRewardDone-37247
+ 19.650     }
+ 19.650   }
+  0.000   Sequence-31212 {
+  0.000     Sequence-31214 {
+  0.000       Sequence-31218 {
+  0.000         *Func-chooseRewardShotNow-37242
+  0.000         Wait dur 19.65
+ 19.650       }
+ 19.650     }
+ 19.650   }
+ 19.650 }
+
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 353, in __taskChainDispatch
+    self.__dispatch(*eventTuple)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "otp\distributed\OTPClientRepository.py", line 1103, in lostConnection
+    self.loginFSM.request('noConnection')
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 284, in request
+    exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 230, in __transition
+    self.__exitCurrent(exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 188, in __exitCurrent
+    self.__currentState.exit(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 209, in exit
+    self.__exitChildren(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 188, in __exitChildren
+    fsm.request((fsm.getFinalState()).getName())
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 284, in request
+    exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 231, in __transition
+    self.__enter(aState, enterArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 217, in __enter
+    aState.enter(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 202, in enter
+    apply(self.__enterFunc, argList)
+  File "toontown\distributed\ToontownClientRepository.py", line 437, in enterGameOff
+    OTPClientRepository.OTPClientRepository.enterGameOff(self)
+  File "otp\distributed\OTPClientRepository.py", line 804, in enterGameOff
+    self._abandonShard()
+  File "toontown\distributed\ToontownClientRepository.py", line 918, in _abandonShard
+    self.deleteObject(doId)
+  File "toontown\distributed\ToontownClientRepository.py", line 906, in deleteObject
+    obj.deleteOrDelay()
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 199, in deleteOrDelay
+    self.disableAnnounceAndDelete()
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 202, in disableAnnounceAndDelete
+    self.disableAndAnnounce()
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 228, in disableAndAnnounce
+    self.disable()
+  File "toontown\coghq\DistributedLevelBattle.py", line 65, in disable
+    DistributedBattle.DistributedBattle.disable(self)
+  File "toontown\battle\DistributedBattle.py", line 34, in disable
+    DistributedBattleBase.DistributedBattleBase.disable(self)
+  File "toontown\battle\DistributedBattleBase.py", line 133, in disable
+    self.cleanupBattle()
+  File "toontown\battle\DistributedBattleBase.py", line 145, in cleanupBattle
+    self.fsm.requestFinalState()
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 151, in requestFinalState
+    self.request(self.getFinalState().getName())
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 302, in request
+    exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 230, in __transition
+    self.__exitCurrent(exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 188, in __exitCurrent
+    self.__currentState.exit(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 213, in exit
+    apply(self.__exitFunc, argList)
+  File "toontown\coghq\DistributedBattleFactory.py", line 47, in exitFactoryReward
+    self.movie.resetReward(finish=1)
+  File "toontown\battle\Movie.py", line 222, in resetReward
+    self.stop()
+  File "toontown\battle\Movie.py", line 366, in stop
+    self.track.finish()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 391, in finish
+    self.privPostEvent()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 519, in privPostEvent
+    self.__doPythonCallbacks()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 495, in __doPythonCallbacks
+    ival.privDoEvent(t, eventType)
+  File "C:\Panda3D-1.10.0\direct\interval\Interval.py", line 206, in privDoEvent
+    self.privInstant()
+  File "C:\Panda3D-1.10.0\direct\interval\FunctionInterval.py", line 88, in privInstant
+    self.function(*self.extraArgs, **self.kw)
+  File "toontown\coghq\DistributedBattleFactory.py", line 43, in __handleFactoryRewardDone
+    self.fsm.request('Resume')
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 246, in request
+    assert not self.__internalStateInFlux
+AssertionError
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 34, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 508, in run
+    self.step()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 465, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 353, in __taskChainDispatch
+    self.__dispatch(*eventTuple)
+  File "C:\Panda3D-1.10.0\direct\showbase\Messenger.py", line 411, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "otp\distributed\OTPClientRepository.py", line 1103, in lostConnection
+    self.loginFSM.request('noConnection')
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 284, in request
+    exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 230, in __transition
+    self.__exitCurrent(exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 188, in __exitCurrent
+    self.__currentState.exit(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 209, in exit
+    self.__exitChildren(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 188, in __exitChildren
+    fsm.request((fsm.getFinalState()).getName())
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 284, in request
+    exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 231, in __transition
+    self.__enter(aState, enterArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 217, in __enter
+    aState.enter(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 202, in enter
+    apply(self.__enterFunc, argList)
+  File "toontown\distributed\ToontownClientRepository.py", line 437, in enterGameOff
+    OTPClientRepository.OTPClientRepository.enterGameOff(self)
+  File "otp\distributed\OTPClientRepository.py", line 804, in enterGameOff
+    self._abandonShard()
+  File "toontown\distributed\ToontownClientRepository.py", line 918, in _abandonShard
+    self.deleteObject(doId)
+  File "toontown\distributed\ToontownClientRepository.py", line 906, in deleteObject
+    obj.deleteOrDelay()
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 199, in deleteOrDelay
+    self.disableAnnounceAndDelete()
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 202, in disableAnnounceAndDelete
+    self.disableAndAnnounce()
+  File "C:\Panda3D-1.10.0\direct\distributed\DistributedObject.py", line 228, in disableAndAnnounce
+    self.disable()
+  File "toontown\coghq\DistributedLevelBattle.py", line 65, in disable
+    DistributedBattle.DistributedBattle.disable(self)
+  File "toontown\battle\DistributedBattle.py", line 34, in disable
+    DistributedBattleBase.DistributedBattleBase.disable(self)
+  File "toontown\battle\DistributedBattleBase.py", line 133, in disable
+    self.cleanupBattle()
+  File "toontown\battle\DistributedBattleBase.py", line 145, in cleanupBattle
+    self.fsm.requestFinalState()
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 151, in requestFinalState
+    self.request(self.getFinalState().getName())
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 302, in request
+    exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 230, in __transition
+    self.__exitCurrent(exitArgList)
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 188, in __exitCurrent
+    self.__currentState.exit(argList)
+  File "C:\Panda3D-1.10.0\direct\fsm\State.py", line 213, in exit
+    apply(self.__exitFunc, argList)
+  File "toontown\coghq\DistributedBattleFactory.py", line 47, in exitFactoryReward
+    self.movie.resetReward(finish=1)
+  File "toontown\battle\Movie.py", line 222, in resetReward
+    self.stop()
+  File "toontown\battle\Movie.py", line 366, in stop
+    self.track.finish()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 391, in finish
+    self.privPostEvent()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 519, in privPostEvent
+    self.__doPythonCallbacks()
+  File "C:\Panda3D-1.10.0\direct\interval\MetaInterval.py", line 495, in __doPythonCallbacks
+    ival.privDoEvent(t, eventType)
+  File "C:\Panda3D-1.10.0\direct\interval\Interval.py", line 206, in privDoEvent
+    self.privInstant()
+  File "C:\Panda3D-1.10.0\direct\interval\FunctionInterval.py", line 88, in privInstant
+    self.function(*self.extraArgs, **self.kw)
+  File "toontown\coghq\DistributedBattleFactory.py", line 43, in __handleFactoryRewardDone
+    self.fsm.request('Resume')
+  File "C:\Panda3D-1.10.0\direct\fsm\ClassicFSM.py", line 246, in request
+    assert not self.__internalStateInFlux
+AssertionError

@@ -99,7 +99,7 @@ AvPropStrings = TTLocalizer.BattleGlobalAvPropStrings
 AvPropStringsSingular = TTLocalizer.BattleGlobalAvPropStringsSingular
 AvPropStringsPlural = TTLocalizer.BattleGlobalAvPropStringsPlural
 AvPropAccuracy = (
- (70, 70, 70, 70, 70, 70, 100),
+ (70, 70, 70, 70, 70, 70, 80),
  (0, 0, 0, 0, 0, 0, 0),
  (70, 70, 80, 80, 90, 90, 95),
  (95, 95, 95, 95, 95, 95, 95),
@@ -209,7 +209,7 @@ def getAvPropDamage(attackTrack, attackLevel, exp, organicBonus = False, propBon
 
 
 def getDamageBonus(normal):
-    bonus = int(normal * 0.1)
+    bonus = int(normal * 0.25)
     if bonus < 1 and normal > 0:
         bonus = 1
     return bonus
@@ -220,13 +220,13 @@ def isGroup(track, level):
 
 
 def getCreditMultiplier(floorIndex):
-    return 1 + floorIndex * 1.5
+    return 1 + floorIndex * 0.5
 
 
 def getFactoryCreditMultiplier(factoryId):
     if factoryId == SellbotMegaCorpInt:
-        return 6.0
-    return 4.0
+        return 3.0
+    return 2.0
 
 
 def getFactoryMeritMultiplier(factoryId):
@@ -234,9 +234,9 @@ def getFactoryMeritMultiplier(factoryId):
 
 
 def getMintCreditMultiplier(mintId):
-    return {CashbotMintIntA: 5.0,
-     CashbotMintIntB: 6.5,
-     CashbotMintIntC: 8.0}.get(mintId, 2.0)
+    return {CashbotMintIntA: 2.5,
+     CashbotMintIntB: 3.25,
+     CashbotMintIntC: 4.0}.get(mintId, 2.0)
 
 
 def getStageCreditMultiplier(floor):
@@ -244,9 +244,9 @@ def getStageCreditMultiplier(floor):
 
 
 def getCountryClubCreditMultiplier(countryClubId):
-    return {BossbotCountryClubIntA: 6.0,
-     BossbotCountryClubIntB: 7.5,
-     BossbotCountryClubIntC: 9.0}.get(countryClubId, 2.0)
+    return {BossbotCountryClubIntA: 3.0,
+     BossbotCountryClubIntB: 3.75,
+     BossbotCountryClubIntC: 4.5}.get(countryClubId, 2.0)
 
 
 def getBossBattleCreditMultiplier(battleNumber):
@@ -254,7 +254,7 @@ def getBossBattleCreditMultiplier(battleNumber):
 
 
 def getInvasionMultiplier():
-    return 3.0
+    return 1.0
 
 
 def getMoreXpHolidayMultiplier():

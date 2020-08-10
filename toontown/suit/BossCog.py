@@ -87,6 +87,7 @@ class BossCog(Avatar.Avatar):
         self.reelSfx = loader.loadSfx('phase_9/audio/sfx/CHQ_VP_reeling_backwards.ogg')
         self.birdsSfx = loader.loadSfx('phase_4/audio/sfx/SZ_TC_bird1.ogg')
         self.dizzyAlert = loader.loadSfx('phase_5/audio/sfx/AA_sound_aoogah.ogg')
+        self.exclaim = loader.loadSfx('phase_9/audio/sfx/Boss_COG_VO_exclaim.mp3')
         self.grunt = loader.loadSfx('phase_9/audio/sfx/Boss_COG_VO_grunt.ogg')
         self.murmur = loader.loadSfx('phase_9/audio/sfx/Boss_COG_VO_murmur.ogg')
         self.statement = loader.loadSfx('phase_9/audio/sfx/Boss_COG_VO_statement.ogg')
@@ -96,7 +97,7 @@ class BossCog(Avatar.Avatar):
          self.statement,
          self.question,
          self.statement,
-         self.statement]
+         self.exclaim]
         dna = self.style
         filePrefix = ModelDict[dna.dept]
         self.loadModel(GenericModel + '-legs-zero', 'legs')

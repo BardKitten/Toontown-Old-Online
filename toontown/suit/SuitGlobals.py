@@ -49,6 +49,6 @@ suitProperties = {'f': (4.0 / cSize, SuitDNA.corpPolyColor, ['flunky', 'glasses'
                   'ms': (4.75 / bSize, SuitDNA.salesPolyColor, ['movershaker'], '', 6.7),
                   'tf': (5.25 / aSize, VBase4(0.95, 0.95, 1.0, 1.0), ['twoface'], '', 6.95),
                   'm': (5.75 / aSize, VBase4(0.95, 0.95, 1.0, 1.0), ['twoface'], 'mingler.jpg', 7.61),
-                  'mh': (7.0 / aSize, VBase4(0.95, 0.95, 1.0, 1.0), ['yesman'], '', 8.95),
+                  'mh': (7.0 / aSize, VBase4(0.95, 0.95, 1.0, 1.0), ['yesman', 'shades'], '', 8.95),
                   }
 

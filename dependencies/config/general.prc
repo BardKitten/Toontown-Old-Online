@@ -83,10 +83,10 @@ want-lawbot-headquarters #t
 want-bossbot-headquarters #t
 
 # Cog battles:
-base-xp-multiplier 1.0
+base-xp-multiplier 2.0
 
 # SOS toons:
-sos-card-reward 2
+sos-card-reward 4
 
 # CogDominiums (Field Offices):
 want-emblems #t

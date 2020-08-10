@@ -254,7 +254,7 @@ def loadSkelDialog():
         murmur = loader.loadSfx('phase_5/audio/sfx/Skel_COG_VO_murmur.ogg')
         statement = loader.loadSfx('phase_5/audio/sfx/Skel_COG_VO_statement.ogg')
         question = loader.loadSfx('phase_5/audio/sfx/Skel_COG_VO_question.ogg')
-        exclaim = loader.loadSfx('phase_5/audio/sfx/Skel_COG_VO_exclaim.ogg')
+        exclaim = loader.loadSfx('phase_5/audio/sfx/Skel_COG_VO_exclaim.mp3')
         SkelSuitDialogArray = [grunt,
          murmur,
          statement,
