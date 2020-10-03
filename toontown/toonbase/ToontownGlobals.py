@@ -95,13 +95,12 @@ FM_RecoveredItem = 4
 SPDonaldsBoat = 3
 SPMinniesPiano = 4
 CEVirtual = 14
-MaxHpLimit = 140
+MaxHpLimit = 136
 MaxCarryLimit = 100
 MaxQuestCarryLimit = 4
 GravityValue = 32.174
 MaxCogSuitLevel = 20 - 1
-CogSuitHPLevels = (11 - 1,
- 12 - 1,
+CogSuitHPLevels = (12 - 1,
  13 - 1,
  14 - 1,
  15 - 1,
