@@ -13,6 +13,7 @@ from toontown.toonbase import TTLocalizer
 from toontown.toonbase import ToontownGlobals
 from toontown.quest import Quests
 from otp.ai.MagicWordGlobal import *
+from debug.LoggerPlusGlobal import logger
 
 
 class DistributedSellbotBossAI(DistributedBossCogAI.DistributedBossCogAI, FSM.FSM):
@@ -61,6 +62,7 @@ class DistributedSellbotBossAI(DistributedBossCogAI.DistributedBossCogAI, FSM.FS
         self.b_setBossDamage(bossDamage, 0, 0)
         if self.bossDamage >= self.bossMaxDamage:
             self.setState('NearVictory')
+            logger.log("Crane Round Ended In %ss" % (round((globalClock.getFrameTime() - self.battleThreeStart), 5)), whisperOnly=1, suites=["timers-on"])
         else:
             self.__recordHit()
 

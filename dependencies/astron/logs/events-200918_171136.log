@@ -1,0 +1,3 @@
+{"_time": "2020-09-18 17:11:36Eastern Daylight Time", "type": "log-opened", "sender": "EventLogger", "msg": "Log opened upon Event Logger startup."}
+{"_time": "2020-09-18 17:13:13Eastern Daylight Time", "type": "client-connected", "sender": "Client:1000000000", "remote_address": "127.0.0.1:64258", "local_address": "127.0.0.1:7199"}
+{"_time": "2020-09-18 17:13:34Eastern Daylight Time", "type": "client-lost", "sender": "Client:1000000000", "reason": "An existing connection was forcibly closed by the remote host"}

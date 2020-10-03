@@ -127,3 +127,4 @@ class Experience:
                 nextExpValue = newNextExpValue
 
         return retList
+

@@ -1,0 +1,148 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x212277B0>}
+__handleAvatarChooserDone: 100000021, 'Master Cool Cat', ('css', 'ms', 's', 'm', (0.3, 0.3, 0.35, 1.0), (1.0, 1.0, 1.0, 1.0), (0.3, 0.3, 0.35, 1.0), (0.3, 0.3, 0.35, 1.0), 111, 27, 98, 27, 41, 27), 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+__handleAvatarChooserDone: 100000021, 'Master Cool Cat', ('css', 'ms', 's', 'm', (0.3, 0.3, 0.35, 1.0), (1.0, 1.0, 1.0, 1.0), (0.3, 0.3, 0.35, 1.0), (0.3, 0.3, 0.35, 1.0), 111, 27, 98, 27, 41, 27), 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+__handleAvatarChooserDone: 100000021, 'Master Cool Cat', ('css', 'ms', 's', 'm', (0.3, 0.3, 0.35, 1.0), (1.0, 1.0, 1.0, 1.0), (0.3, 0.3, 0.35, 1.0), (0.3, 0.3, 0.35, 1.0), 111, 27, 98, 27, 41, 27), 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+chooseFireOpenShot <function avatarCloseUpThrowShot at 0x1C2C0DB0>
+chooseFireOpenShot <function allGroupLowShot at 0x1C2C0B30>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DG.pdna
+Reading DNA file... phase_8/dna/storage_DG_sz.pdna
+Reading DNA file... phase_8/dna/daisys_garden_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+chooseFireOpenShot <function avatarCloseUpThreeQuarterRightShot at 0x1C2C0DF0>
+chooseFireOpenShot <function allGroupLowShot at 0x1C2C0B30>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function avatarCloseUpThrowShot at 0x1C2C0DB0>
+chooseFireOpenShot <function avatarCloseUpFireShot at 0x1C2C3370>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+hit! 0.891164660454
+hit! 0.89779227972
+hit! 0.972296655178
+hit! 0.484410852194
+hit! 0.844543993473
+hit! 0.912013888359
+hit! 0.979574918747
+hit! 0.647755563259
+hit! 0.862571060658
+hit! 0.886253297329
+hit! 0.952540755272
+hit! 0.875670969486
+hit! 0.956676483154
+hit! 0.374639749527
+hit! 0.450948655605
+hit! 0.445634305477
+hit! 0.908862769604
+hit! 0.867428302765
+hit! 0.965766370296
+hit! 0.955009102821
+hit! 0.720624446869
+hit! 0.960934519768
+hit! 0.652034819126
+hit! 0.916816830635
+hit! 0.718952059746
+hit! 0.926452994347
+hit! 0.861320436001
+hit! 0.577996075153
+hit! 0.998341619968
+hit! 0.913878679276
+hit! 0.332125127316
+hit! 0.551068782806
+hit! 0.600802779198
+hit! 0.558400332928
+hit! 0.667088091373
+hit! 0.851053476334
+hit! 0.844074904919
+hit! 0.990443527699
+hit! 0.988407611847
+hit! 0.841153800488
+hit! 0.979422688484
+hit! 0.636437833309
+hit! 0.71637314558
+hit! 0.997573196888
+hit! 0.784565627575
+hit! 0.807436704636
+hit! 0.782878577709
+hit! 0.650363564491
+hit! 0.961029648781
+hit! 0.926905751228
+hit! 0.440591931343
+--not hard enough: -0.146400108933
+hit! 0.892594099045
+hit! 0.64038848877
+hit! 0.907434999943
+hit! 0.610766470432
+hit! 0.792533695698
+hit! 0.902532398701
+hit! 0.793389260769
+hit! 0.276080012321
+hit! 0.993657767773
+hit! 0.986648738384
+hit! 0.670193195343
+hit! 0.855847418308
+hit! 0.839885115623
+hit! 0.828103661537
+hit! 0.982778191566
+--not hard enough: -0.0436216108501
+hit! 0.567834556103
+hit! 0.999513208866
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_8/dna/storage_DL.pdna
+Reading DNA file... phase_8/dna/storage_DL_sz.pdna
+Reading DNA file... phase_8/dna/donalds_dreamland_sz.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+entered wait for zone redirect
+entered wait for set zone response - 2
+entered wait for zone redirect
+entered wait for set zone response - 2
+### newVec3 =  LVector3f(2, 6.3, 1.5)
+### newVec3 =  LVector3f(2, 6.3, 0)
+### newVec3 =  LVector3f(2, 6.3, 0.375)
+### newVec3 =  LVector3f(2, 6.3, 0)
+chooseFireOpenShot <function avatarBehindShot at 0x1C2C0F30>
+chooseFireOpenShot <function avatarCloseUpFireShot at 0x1C2C3370>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+chooseFireOpenShot <function allGroupLowShot at 0x1C2C0B30>
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x1C2C0CB0>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.

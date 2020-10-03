@@ -24,11 +24,17 @@ class DistributedBanquetTableAI(DistributedObjectAI.DistributedObjectAI, FSM.FSM
             eatingDuration = diffSettings[5]
             hungryDuration += random.uniform(-4, 4)
             eatingDuration += random.uniform(-5, 5)
-            level = 12
+            level = random.choice([8, 9, 10, 11, 12])
             if type(dinerLevel) == type(0):
-                level = 12
+                level = random.choice([8, 9, 10, 11, 12])
             else:
                 level = random.choice(dinerLevel)
+            dept = random.choice(['s', 'm', 'l', 'c'])
+			
+            if level == 11 and dept == 'm':
+                # TODO: Add sit animation for suit B cogs.
+                level = 10
+				
             self.dinerInfo[i] = (hungryDuration, eatingDuration, level)
 
         self.transitionTasks = {}

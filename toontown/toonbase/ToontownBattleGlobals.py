@@ -254,7 +254,7 @@ def getBossBattleCreditMultiplier(battleNumber):
 
 
 def getInvasionMultiplier():
-    return 1.0
+    return 2.0
 
 
 def getMoreXpHolidayMultiplier():

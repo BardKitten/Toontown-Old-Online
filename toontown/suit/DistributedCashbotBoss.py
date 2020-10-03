@@ -66,6 +66,7 @@ class DistributedCashbotBoss(DistributedBossCog.DistributedBossCog, FSM.FSM):
         shieldNodePath = self.pelvis.attachNewNode(shieldNode)
         self.heldObject = None
         self.bossDamage = 0
+        self.promotionMusic = base.loadMusic('phase_10/audio/bgm/CFO_intro.mp3')
         self.intermissionMusic = base.loadMusic('phase_9/audio/bgm/CBHQ_Boss_intermission.ogg')
         self.loadEnvironment()
         self.__makeResistanceToon()

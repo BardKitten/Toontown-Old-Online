@@ -13,6 +13,7 @@ import SuitDNA
 import random
 from otp.ai.MagicWordGlobal import *
 import math
+from debug.LoggerPlusGlobal import logger
 
 class DistributedCashbotBossAI(DistributedBossCogAI.DistributedBossCogAI, FSM.FSM):
     notify = DirectNotifyGlobal.directNotify.newCategory('DistributedCashbotBossAI')
@@ -364,6 +365,7 @@ class DistributedCashbotBossAI(DistributedBossCogAI.DistributedBossCogAI, FSM.FS
         self.b_setBossDamage(self.bossDamage + damage)
         if self.bossDamage >= self.bossMaxDamage:
             self.b_setState('Victory')
+            logger.log("Crane Round Ended In %ss" % (round((globalClock.getFrameTime() - self.battleThreeStart), 5)), whisperOnly=1, suites=["timers-on"])
         elif self.attackCode != ToontownGlobals.BossCogDizzy:
             if damage >= ToontownGlobals.CashbotBossKnockoutDamage:
                 self.b_setAttackCode(ToontownGlobals.BossCogDizzy)

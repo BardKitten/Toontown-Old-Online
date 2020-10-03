@@ -1,0 +1,61 @@
+TTLocalizer: Running in language: English
+OTPLocalizer: Running in language: English
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1F2FD300>}
+__handleAvatarChooserDone: 100000021, 'Master Cool Cat', ('css', 'ms', 's', 'm', (0.3, 0.3, 0.35, 1.0), (1.0, 1.0, 1.0, 1.0), (0.3, 0.3, 0.35, 1.0), (0.3, 0.3, 0.35, 1.0), 111, 27, 98, 27, 41, 27), 2
+Traceback (most recent call last):
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1222, in handleDatagram
+    self.handleMessageType(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1156, in handleMessageType
+    self.handleGenerateWithRequiredOtherOwner(di)
+  File "toontown\distributed\ToontownClientRepository.py", line 754, in handleGenerateWithRequiredOtherOwner
+    self.handleAvatarResponseMsg(doId, di)
+  File "toontown\distributed\ToontownClientRepository.py", line 314, in handleAvatarResponseMsg
+    localAvatar.initInterface()
+  File "toontown\toon\LocalToon.py", line 331, in initInterface
+    self.loadDisguisePages()
+  File "toontown\toon\LocalToon.py", line 388, in loadDisguisePages
+    self.disguisePage.load()
+  File "toontown\shtiker\DisguisePage.py", line 29, in load
+    gui = loader.loadModel('phase_9/models/gui/cog_disguises')
+  File "toontown\toonbase\ToontownLoader.py", line 72, in loadModel
+    ret = Loader.Loader.loadModel(self, *args, **kw)
+  File "C:\Panda3D-1.10.0\direct\showbase\Loader.py", line 170, in loadModel
+    raise IOError, message
+IOError: Could not load model file(s): ['phase_9/models/gui/cog_disguises']
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 34, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 508, in run
+    self.step()
+  File "C:\Panda3D-1.10.0\direct\task\Task.py", line 465, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "C:\Panda3D-1.10.0\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1222, in handleDatagram
+    self.handleMessageType(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1156, in handleMessageType
+    self.handleGenerateWithRequiredOtherOwner(di)
+  File "toontown\distributed\ToontownClientRepository.py", line 754, in handleGenerateWithRequiredOtherOwner
+    self.handleAvatarResponseMsg(doId, di)
+  File "toontown\distributed\ToontownClientRepository.py", line 314, in handleAvatarResponseMsg
+    localAvatar.initInterface()
+  File "toontown\toon\LocalToon.py", line 331, in initInterface
+    self.loadDisguisePages()
+  File "toontown\toon\LocalToon.py", line 388, in loadDisguisePages
+    self.disguisePage.load()
+  File "toontown\shtiker\DisguisePage.py", line 29, in load
+    gui = loader.loadModel('phase_9/models/gui/cog_disguises')
+  File "toontown\toonbase\ToontownLoader.py", line 72, in loadModel
+    ret = Loader.Loader.loadModel(self, *args, **kw)
+  File "C:\Panda3D-1.10.0\direct\showbase\Loader.py", line 170, in loadModel
+    raise IOError, message
+IOError: Could not load model file(s): ['phase_9/models/gui/cog_disguises']

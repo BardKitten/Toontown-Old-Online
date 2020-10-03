@@ -359,7 +359,7 @@ def __createSuitDamageTrack(battle, suit, hp, lure, trapProp):
             nameTag = suit.find('**/joint_nameTag')
         trapTrack = Sequence(Wait(2.4), LerpScaleInterval(trapProp, 0.8, Point3(0.01, 0.01, 0.01)))
         moveTrack = Sequence(Wait(0.9), LerpPosInterval(suit, 0.9, sinkPos1, other=battle), LerpPosInterval(suit, 0.4, sinkPos2, other=battle), Func(suit.setPos, battle, dropPos), Func(suit.wrtReparentTo, hidden), Wait(1.1), Func(suit.wrtReparentTo, battle), LerpPosInterval(suit, 0.3, landPos, other=battle))
-        animTrack = Sequence(ActorInterval(suit, 'flail'), ActorInterval(suit, 'flail', startTime=1.1), Wait(0.7), ActorInterval(suit, 'slip-backward', duration=4.0))
+        animTrack = Sequence(ActorInterval(suit, 'flail'), ActorInterval(suit, 'flail', startTime=1.1), Wait(0.7), ActorInterval(suit, 'slip-forward', duration=4.4))
         damageTrack = Sequence(Wait(3.5), Func(suit.showHpText, -hp, openEnded=0), Func(suit.updateHealthBar, hp))
         soundTrack = Sequence(Wait(0.7), SoundInterval(globalBattleSoundCache.getSound('TL_quicksand.ogg'), node=suit), Wait(0.1), SoundInterval(globalBattleSoundCache.getSound('Toon_bodyfall_synergy.ogg'), node=suit))
         result.append(Parallel(trapTrack, moveTrack, animTrack, damageTrack, soundTrack))
@@ -371,7 +371,7 @@ def __createSuitDamageTrack(battle, suit, hp, lure, trapProp):
         dropPos.setZ(dropPos.getZ() + 15)
         trapTrack = Sequence(Wait(2.4), LerpScaleInterval(trapProp, 0.8, Point3(0.01, 0.01, 0.01)))
         moveTrack = Sequence(Wait(2.2), LerpPosInterval(suit, 0.4, sinkPos, other=battle), Func(suit.setPos, battle, dropPos), Func(suit.wrtReparentTo, hidden), Wait(1.6), Func(suit.wrtReparentTo, battle), LerpPosInterval(suit, 0.3, landPos, other=battle))
-        animTrack = Sequence(getSplicedLerpAnimsTrack(suit, 'flail', 0.7, 0.25), Func(trapProp.setColor, Vec4(0, 0, 0, 1)), ActorInterval(suit, 'flail', startTime=0.7, endTime=0), ActorInterval(suit, 'neutral', duration=0.5), ActorInterval(suit, 'flail', startTime=1.1), Wait(1.1), ActorInterval(suit, 'slip-backward', duration=4.0))
+        animTrack = Sequence(getSplicedLerpAnimsTrack(suit, 'flail', 0.7, 0.25), Func(trapProp.setColor, Vec4(0, 0, 0, 1)), ActorInterval(suit, 'flail', startTime=0.7, endTime=0), ActorInterval(suit, 'neutral', duration=0.5), ActorInterval(suit, 'flail', startTime=1.1), Wait(1.1), ActorInterval(suit, 'slip-forward', duration=4.4))
         damageTrack = Sequence(Wait(3.5), Func(suit.showHpText, -hp, openEnded=0), Func(suit.updateHealthBar, hp))
         soundTrack = Sequence(Wait(0.8), SoundInterval(globalBattleSoundCache.getSound('TL_trap_door.ogg'), node=suit), Wait(0.8), SoundInterval(globalBattleSoundCache.getSound('Toon_bodyfall_synergy.ogg'), node=suit))
         result.append(Parallel(trapTrack, moveTrack, animTrack, damageTrack, soundTrack))
@@ -398,9 +398,9 @@ def __createSuitDamageTrack(battle, suit, hp, lure, trapProp):
             soundTrack = Sequence(SoundInterval(globalBattleSoundCache.getSound('TL_dynamite.ogg'), duration=2.0, node=suit), SoundInterval(explosionSound, duration=0.6, node=suit))
         else:
             if base.localAvatar in battle.activeToons:
-                suitTrack.append(Parallel(Sequence(Wait(0.3), base.camera.posHprInterval(0.5, Point3(*oldCamera), Point3(*oldHPR), blendType='easeInOut')), ActorInterval(suit, 'slip-backward', playRate=1), LerpPosInterval(suit, 0.7, dropPos)))
+                suitTrack.append(Parallel(Sequence(Wait(0.3), base.camera.posHprInterval(0.5, Point3(*oldCamera), Point3(*oldHPR), blendType='easeInOut')), ActorInterval(suit, 'slip-forward', playRate=1), LerpPosInterval(suit, 0.7, dropPos)))
             else:
-                suitTrack.append(Parallel(ActorInterval(suit, 'slip-backward', playRate=1), LerpPosInterval(suit, 0.7, dropPos)))
+                suitTrack.append(Parallel(ActorInterval(suit, 'slip-forward', playRate=1), LerpPosInterval(suit, 0.7, dropPos)))
             suitTrack.append(Func(suit.clearColorScale))
             suitTrack.append(Func(trapProp.sparksEffect.cleanup))
             suitTrack.append(Func(battle.movie.clearRestoreColor))

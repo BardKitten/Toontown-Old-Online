@@ -1,0 +1,16 @@
+{
+    "timers-on":
+    {
+        "DistributedSellbotBossAI": ["hitBoss"],
+        "DistributedCashbotBossAI": ["recordHit"],
+        "DistributedLawbotBossAI": ["startBonusState", "hitBoss"],
+        "DistributedBossbotBossAI": ["hitBoss"]
+    },
+    "timers-off":
+    {
+        "DistributedSellbotBossAI": ["hitBoss"],
+        "DistributedCashbotBossAI": ["recordHit"],
+        "DistributedLawbotBossAI": ["startBonusState", "hitBoss"],
+        "DistributedBossbotBossAI": ["hitBoss"]
+    }
+}

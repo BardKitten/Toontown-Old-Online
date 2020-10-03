@@ -6,11 +6,11 @@ Tricks = Enum('JUMP, BEG, PLAYDEAD, ROLLOVER, BACKFLIP, DANCE, SPEAK, BALK,')
 NonHappyMinActualTrickAptitude = 0.1
 NonHappyMaxActualTrickAptitude = 0.6
 MinActualTrickAptitude = 0.5
-MaxActualTrickAptitude = 0.97
+MaxActualTrickAptitude = 5.00
 AptitudeIncrementDidTrick = 0.0005
 MaxAptitudeIncrementGotPraise = 0.0003
-MaxTrickFatigue = 0.65
-MinTrickFatigue = 0.1
+MaxTrickFatigue = 0.02
+MinTrickFatigue = 0.01
 ScId2trickId = {21200: Tricks.JUMP,
  21201: Tricks.BEG,
  21202: Tricks.PLAYDEAD,
@@ -43,13 +43,13 @@ TrickAccuracies = {Tricks.JUMP: 1.0,
  Tricks.DANCE: 0.5,
  Tricks.SPEAK: 0.4,
  Tricks.BALK: 1.0}
-TrickHeals = {Tricks.JUMP: (5, 10),
- Tricks.BEG: (6, 12),
- Tricks.PLAYDEAD: (7, 14),
- Tricks.ROLLOVER: (8, 16),
- Tricks.BACKFLIP: (9, 18),
- Tricks.DANCE: (10, 20),
- Tricks.SPEAK: (11, 22),
+TrickHeals = {Tricks.JUMP: (10, 10),
+ Tricks.BEG: (12, 15),
+ Tricks.PLAYDEAD: (14, 20),
+ Tricks.ROLLOVER: (16, 25),
+ Tricks.BACKFLIP: (18, 30),
+ Tricks.DANCE: (20, 35),
+ Tricks.SPEAK: (22, 40),
  Tricks.BALK: (0, 0)}
 TrickSounds = {Tricks.BACKFLIP: 'phase_5/audio/sfx/backflip.ogg',
  Tricks.ROLLOVER: 'phase_5/audio/sfx/rollover.ogg',

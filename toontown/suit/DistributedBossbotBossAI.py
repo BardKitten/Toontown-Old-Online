@@ -19,6 +19,7 @@ from toontown.suit import DistributedSuitAI
 from toontown.suit import SuitDNA
 from toontown.toonbase import ToontownBattleGlobals
 from toontown.toonbase import ToontownGlobals
+from debug.LoggerPlusGlobal import logger
 
 
 class DistributedBossbotBossAI(DistributedBossCogAI.DistributedBossCogAI, FSM.FSM):
@@ -479,6 +480,7 @@ class DistributedBossbotBossAI(DistributedBossCogAI.DistributedBossCogAI, FSM.FS
         self.b_setBossDamage(bossDamage, 0, 0)
         if self.bossDamage >= self.bossMaxDamage:
             self.b_setState('Victory')
+            logger.log("Crane Round Ended In %ss" % (round((globalClock.getFrameTime() - self.battleThreeStart), 5)), whisperOnly=1, suites=["timers-on"])
         else:
             self.__recordHit(bossDamage)
 
