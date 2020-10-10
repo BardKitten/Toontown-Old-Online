@@ -686,7 +686,7 @@ class DistributedLawbotBoss(DistributedBossCog.DistributedBossCog, FSM.FSM):
         if not self.reflectedMainDoor.isEmpty():
             self.reflectedMainDoor.stash()
         base.camera.reparentTo(self.elevatorModel)
-        base.camera.setPosHpr(0, 30, 8, 180, 0, 0)
+        base.camera.setPosHpr(30, 0, 8, 180, 0, 0)
         base.camLens.setMinFov(ToontownGlobals.CJElevatorFov/(4./3.))
 
     def exitElevator(self):
@@ -1354,8 +1354,8 @@ class DistributedLawbotBoss(DistributedBossCog.DistributedBossCog, FSM.FSM):
 
         track = Track(
             (0, Parallel(self.podium.posInterval(5, finalPodiumPos), self.reflectedPodium.posInterval(5, finalReflectedPodiumPos), self.posInterval(5, finalBossPos), Func(self.loop, 'Ff_speech'), Func(self.setChatAbsolute, TTLocalizer.LawbotBossTempIntro0, CFSpeech))),
-            (5, Parallel(base.camera.posInterval(6, (-2.8, 5.6, 19.3), blendType='easeInOut'), self.posInterval(16, ToontownGlobals.LawbotBossBattleOnePosHpr[:3]))),
-            (5.6, Func(self.setChatAbsolute, TTLocalizer.LawbotBossTempIntro1, CFSpeech)),
+            (2, Parallel(base.camera.posInterval(6, (-2.8, 5.6, 19.3), blendType='easeInOut'), self.posInterval(16, ToontownGlobals.LawbotBossBattleOnePosHpr[:3]))),
+            (7.5, Func(self.setChatAbsolute, TTLocalizer.LawbotBossTempIntro1, CFSpeech)),
             (11, Parallel(Func(self.play, 'Ff_lookRt'), base.camera.posInterval(3, (-2.8, -50.6, 19.3), blendType='easeInOut'))),
             (11.5, Func(self.setChatAbsolute, TTLocalizer.LawbotBossTempIntro2, CFSpeech)),
             (13, self.actorInterval('Ff_lookRt', playRate=-1)),
